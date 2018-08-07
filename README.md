@@ -6,17 +6,7 @@ As a climber I am doing 6b's on lead, and V3/4's on bouldering. With a recent fo
 
 I wish this set of notes will help myself throughout this trip and hopefully more people like me in the future.
 
-# Bouldering
-
-## By Region
-
-### New Joe's
-
-### Left Fork
-
-### Right Fork
-
-## To Begin With...
+# To Begin With...
 
 I talked to a few people regarding how to boulder outdoors and here are some valuable tips that I learned: 
 
@@ -26,7 +16,20 @@ I definitely agree with this throughout my other climbing. But due to the nature
 
 > Find the easiest boulders with good landing to begin with.
 
-**Good landing with easy routes**
+This motivates one of the following sections. I put an effort in trying to find those easy problems with good landing.
+
+# Bouldering at Joe's
+
+## By Region
+
+### New Joe's
+
+### Left Fork
+
+### Right Fork
+
+
+## Easy Routes with Good Landing
 
 - Slab: Stab Slab (V1) 
 
@@ -62,7 +65,7 @@ Area: K-Town
 
 Videos
 
-- [Joe's Valley Classics | 2:16](https://youtu.be/bizRT8KdLzo?t=2m16s)
+- [Joe's Valley Classics > 2:16](https://youtu.be/bizRT8KdLzo?t=2m16s)
 
 # Living
 
