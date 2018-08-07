@@ -111,6 +111,22 @@ Videos
 
 - [Joe's Valley Classics > 2:16](https://youtu.be/bizRT8KdLzo?t=2m16s)
 
+# Crashpad Rental
+
+- [University of Utah Campus Recreation Center](https://campusrec.utah.edu/programs/outdoor-adventures/rental/index.php)
+
+Cheapest of all I found, they have crashpad for $10 for a weekend (3 nights). Whether the price is till current I need to check out on my own.
+
+- [IME SLC](https://www.facebook.com/pages/International-Mountain-Equipment-Ime/138914342823683)
+
+- [Mountainworks](https://www.facebook.com/Mountainworks-89123578696/) in Provo, UT. Though on the way to Orangeville.
+
+- [My Airbnb Host](https://www.airbnb.com.sg/users/show/77031235) has a few different crashpads and they range from 5$ to 8$ a day.
+
+Also according to her:
+
+> Or the coffee shop has pads for $10 a day. So no worries there are definitely pads around for you to rent.
+
 # Living
 
 > Either be funny or be quiet.  
