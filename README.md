@@ -121,7 +121,7 @@ Videos
 
 I love coffee. Coffee is my water. I dig the cities out for coffee places. And guess what, there's an interesting cafe at Orangeville!
 
-### [Cup of Joe’s](https://goo.gl/maps/qMiyWe8qwW92)
+- [Cup of Joe’s](https://goo.gl/maps/qMiyWe8qwW92)
 
 Apparently they also have quite a few fans on their [Facebook Page](https://www.facebook.com/cupofjoes). But most amazing of all, they actually take coffee beans, like this bag called _Warm Up Boulder_.
 
@@ -147,7 +147,7 @@ Apparently they also have quite a few fans on their [Facebook Page](https://www.
 
 ## Instagram
 
-[#joesvalley](https://www.instagram.com/explore/tags/joesvalley/)
+- [#joesvalley](https://www.instagram.com/explore/tags/joesvalley/)
 
 ## Articles
 
