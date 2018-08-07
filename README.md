@@ -32,9 +32,7 @@ Should I look for a way down first before climbing up every boulder?
 
 How tall is Isaac Caldiero (author of the guidebook)?
 
-# Bouldering at Joe's
-
-## By Region
+# Bouldering at Joe's By Region
 
 a.k.a. guidebook reading
 
@@ -48,17 +46,17 @@ On the other side, the printed guides I would just feel free to write and mark a
 
 I am going there at a fairly hot season (mid of August). So I also try to figure out which side the boulder is facing and whether it has shades.
 
-### New Joe's
+## New Joe's
 
 **Videos**
 
 - [Chad on Warm Me Up Scotty (V1)](https://www.youtube.com/watch?v=wadwAsRyhbw)
 
-### Left Fork
+## Left Fork
 
-### Right Fork
+## Right Fork
 
-#### Warm Up Area
+### Warm Up Area
 
 This is the region on the Right Fork closest to the parking spot. Some classic easy problems such as _Better Than Coffee_, _Standard Overhang_, and _Todd's Easy Arete_, etc, are there.
 
@@ -68,7 +66,7 @@ How does _Better Than Coffee_ get its name? There's also a _Better Than Starbuck
 
 - [Joe's Valley - Better Than Coffee](https://www.youtube.com/watch?v=FeYBE6N5GEs)
 
-## Easy Routes with Good Landing
+# Section Work in Progress
 
 - Slab: Stab Slab (V1) 
 
