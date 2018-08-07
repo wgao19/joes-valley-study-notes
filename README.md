@@ -10,6 +10,13 @@ I did not include the source of friends / gyms I got help from in this writeup f
 
 # To Begin With...
 
+When I knew I was going to SLC for my work related conference, I did not yet know what I was going to do for the climbing. I was looking to hit the gym once I land, try to make some friends and find partners to do some outdoor climbing. I started my search on Utah climbing on all sources. Google, YouTube, Instagram. I followed a bunch of Utah / SLC climbers, and am getting more and more excited about visiting the region and the community. More stories to be told... But here's how I set my mind on Joe's Valley:
+
+So, in my broad first searches I found out that Indian Creek is definitely the hottest of all, but perhaps too hot (temperature) that I'll have to miss it. Also I am not confident enough to lead a trad climb trip on my own. I'm not so rich to hire rock guides. So that plan kind of have to wait.. Meanwhile I found out about Joe's Valley. I put that on my list though hold because it being two and half hour drive from SLC is a bit far for me to make up my decision. At least it was not first option as I was staying in SLC and was not ready to make a one day trip back... I was mainly looking at LCC until...
+
+![it all starts with...](https://scontent-sin6-2.cdninstagram.com/vp/b368fb42b83009461a9df6a1c36d6abb/5B6CAB88/t51.12442-15/e35/37829526_2097622940479944_5971869197196591104_n.jpg)
+
+
 ## Words of Advice from Senpais
 
 I talked to a few people regarding how to boulder outdoors and here are some valuable tips that I learned: 
@@ -137,6 +144,3 @@ Videos
 ## Misc
 
 - [Corporate Map](https://www.google.com/maps/d/u/0/edit?mid=16hbyMTTFuIlw7e6DllSHZ2Z95edmI8y-&ll=39.30773074574475%2C-111.11517843301266&z=17)
-
-
-
