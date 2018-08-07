@@ -30,25 +30,18 @@ I definitely agree with this throughout my other climbing. But due to the nature
 
 - Slab: Stab Slab (V1) 
 
-> pp.63
-
 - Gunshot 
 
-> pp.77
-	- Faceshot (V1) 
-	- Headshot (V3)
-	- Gunshot (V3)
+- - Faceshot (V1) 
+- - Headshot (V3)
+- - Gunshot (V3)
 
 - Footmare 
-
-> pp.79
-
-	- Nightmare (V0)
-	- Elm Street (v1)
-	- Freddy (V2)
+- - Nightmare (V0)
+- - Elm Street (v1)
+- - Freddy (V2)
 
 - Boysize 
-
 
 a bunch of V0’s
 
