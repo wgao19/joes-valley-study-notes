@@ -8,7 +8,25 @@ I wish this set of notes will help myself throughout this trip and hopefully mor
 
 All the page numbers are in reference to this guidebook: [An Insightful Guide to Joe's Valley Bouldering](https://www.amazon.com/Insightful-Guide-Joes-Valley-Bouldering/dp/1427650896)
 
-## Bouldering
+# Bouldering
+
+## By Region
+
+### New Joe's
+
+### Left Fork
+
+### Right Fork
+
+## To Begin With...
+
+I talked to a few people regarding how to boulder outdoors and here are some valuable tips that I learned: 
+
+> Spotters are important. Climb with good partners who care about what you are doing.
+
+I definitely agree with this throughout my other climbing. But due to the nature of this trip, I'll make friends along my way.
+
+> Find the easiest boulders with good landing to begin with.
 
 **Good landing with easy routes**
 
@@ -43,6 +61,8 @@ a bunch of V0’s
 
 a bunch of V2’s
 
+## Classic Boulders of Joe's
+
 **Checklist**
 
 - [ ] Stumble Bum (V2)
@@ -50,14 +70,14 @@ a bunch of V2’s
 
 ## Living
 
-**Guides**
+**Living Guides**
 
 [Essential Guide to Living](http://rvproj.com/2012/11/29/the-essential-guide-to-joes-valley-living/)
 
 > TIL: either be funny or be quiet.
 
 
-**Food & Coffee**
+### Food and Coffee
 
 - Cup of Joe’s
 - [Palenque Gourmet Mexican Grill](https://goo.gl/maps/fD8YwAymXjC2)
