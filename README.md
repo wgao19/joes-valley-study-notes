@@ -6,8 +6,6 @@ As a climber I am doing 6b's on lead, and V3/4's on bouldering. With a recent fo
 
 I wish this set of notes will help myself throughout this trip and hopefully more people like me in the future.
 
-All the page numbers are in reference to this guidebook: [An Insightful Guide to Joe's Valley Bouldering](https://www.amazon.com/Insightful-Guide-Joes-Valley-Bouldering/dp/1427650896)
-
 # Bouldering
 
 ## By Region
@@ -51,22 +49,27 @@ I definitely agree with this throughout my other climbing. But due to the nature
 
 - Boysize 
 
-> pp.79-80
 
 a bunch of V0’s
 
 - Triangle 
 
-> pp. 84
 
 a bunch of V2’s
 
 ## Classic Boulders of Joe's
 
-**Checklist**
+Stumble Bum (V2)
 
-- [ ] Stumble Bum (V2)
-- [ ] K-Town > The Angler (V2) | pp.66
+### The Angler (V2) 
+
+Area: K-Town
+
+> Aesthetic, easy, tricky start, classic, beginning crux.
+
+Videos
+
+- [Joe's Valley Classics | 2:16](https://youtu.be/bizRT8KdLzo?t=2m16s)
 
 # Living
 
@@ -90,4 +93,6 @@ a bunch of V2’s
 - [Joe’s Valley Festival](https://www.facebook.com/joesvalleybouldering/)
 - [drtopo - Joe’s Valley](http://www.drtopo.com/north-america/united-states/utah/joe-s-valley)
 - [Corporate Map](https://www.google.com/maps/d/u/0/edit?mid=16hbyMTTFuIlw7e6DllSHZ2Z95edmI8y-&ll=39.30773074574475%2C-111.11517843301266&z=17)
+
+- [Joe's Valley Bouldering](https://utah.com/joes-valley-bouldering-guide)
 
