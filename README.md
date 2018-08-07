@@ -68,7 +68,7 @@ a bunch of V2’s
 - [ ] Stumble Bum (V2)
 - [ ] K-Town > The Angler (V2) | pp.66
 
-## Living
+# Living
 
 **Living Guides**
 
@@ -77,12 +77,12 @@ a bunch of V2’s
 > TIL: either be funny or be quiet.
 
 
-### Food and Coffee
+## Food and Coffee
 
 - Cup of Joe’s
 - [Palenque Gourmet Mexican Grill](https://goo.gl/maps/fD8YwAymXjC2)
 
-## References
+# References
 
 - [An Insightful Guide to Joe's Valley Bouldering](https://www.amazon.com/Insightful-Guide-Joes-Valley-Bouldering/dp/1427650896)
 - [theCrag — Joe’s Valley](https://www.thecrag.com/climbing/united-states/joes-valley)
