@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+Joe’s Valley
 
-You can use the [editor on GitHub](https://github.com/wgao19/joes-valley-study-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#sandstone  #bouldering
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Good landing with easy routes**
 
-### Markdown
+- Slab > Stab Slab (V1) | pp.63
+- Gunshot | pp.77
+	- Faceshot (V1) 
+	- Headshot (V3)
+	- Gunshot (V3)
+- Footmare | pp.79
+	- Nightmare (V0)
+	- Elm Street (v1)
+	- Freddy (V2)
+- Boysize | pp.79-80 | a bunch of V0’s
+- Triangle | pp. 84 | a bunch of V2’s
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Checklist**
 
-```markdown
-Syntax highlighted code block
+- [ ] Stumble Bum (V2)
+- [ ] K-Town > The Angler (V2) | pp.66
 
-# Header 1
-## Header 2
-### Header 3
+### Living
 
-- Bulleted
-- List
+**Guides**
 
-1. Numbered
-2. List
+[Essential Guide to Living](http://rvproj.com/2012/11/29/the-essential-guide-to-joes-valley-living/)
 
-**Bold** and _Italic_ and `Code` text
+> TIL: either be funny or be quiet.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Food & Coffee**
 
-### Jekyll Themes
+- Cup of Joe’s
+- [Palenque Gourmet Mexican Grill](https://goo.gl/maps/fD8YwAymXjC2)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wgao19/joes-valley-study-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Links
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [theCrag — Joe’s Valley](https://www.thecrag.com/climbing/united-states/joes-valley)
+- [WikiBoulder — Joe’s Valley](http://wikiboulder.com/guides/guide/Utah/Joes_Valley)
+- [Joe’s Valley Festival](https://www.facebook.com/joesvalleybouldering/)
+- [drtopo - Joe’s Valley](http://www.drtopo.com/north-america/united-states/utah/joe-s-valley)
+- [Corporate Map](https://www.google.com/maps/d/u/0/edit?mid=16hbyMTTFuIlw7e6DllSHZ2Z95edmI8y-&ll=39.30773074574475%2C-111.11517843301266&z=17)
