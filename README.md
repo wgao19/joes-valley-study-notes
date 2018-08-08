@@ -1,6 +1,6 @@
 # Joe’s Valley
 
-This is a personalized study notes of _Joe's Valley_. I am a software engineer visiting SLC for React Rally this August. Off the time of my coding I am also a climber. Long story short I am preparing a side trip to Joe's Valley. 
+This is a personalized study notes of _Joe's Valley_. I am a software engineer visiting SLC for React Rally this August. Off the time of my coding I am also a climber. Long story short I am preparing a side trip to Joe's Valley.
 
 As a climber I am doing 6b's on lead, and V3/4's on bouldering. With a recent focus on bouldering, Joe's Valley is such an interesting spot to experience. I have no prior experience for outdoor bouldering so this study notes will come from that perspective -- basics, safety, trip preparation, etc.
 
@@ -16,10 +16,9 @@ So, in my broad first searches I found out that Indian Creek is definitely the h
 
 ![it all starts with...](https://scontent-sin6-2.cdninstagram.com/vp/b368fb42b83009461a9df6a1c36d6abb/5B6CAB88/t51.12442-15/e35/37829526_2097622940479944_5971869197196591104_n.jpg)
 
-
 ## Words of Advice from Senpais
 
-I talked to a few people regarding how to boulder outdoors and here are some valuable tips that I learned: 
+I talked to a few people regarding how to boulder outdoors and here are some valuable tips that I learned:
 
 > Spotters are important. Climb with good partners who care about what you are doing.
 
@@ -57,7 +56,7 @@ I am going there at a fairly hot season (mid of August). So I also try to figure
 
 **Videos**
 
-- [Chad on Warm Me Up Scotty (V1)](https://www.youtube.com/watch?v=wadwAsRyhbw)
+* [Chad on Warm Me Up Scotty (V1)](https://www.youtube.com/watch?v=wadwAsRyhbw)
 
 ## Left Fork
 
@@ -71,29 +70,29 @@ How does _Better Than Coffee_ get its name? There's also a _Better Than Starbuck
 
 **Videos**
 
-- [Joe's Valley - Better Than Coffee](https://www.youtube.com/watch?v=FeYBE6N5GEs)
+* [Joe's Valley - Better Than Coffee](https://www.youtube.com/watch?v=FeYBE6N5GEs)
 
 # Section Work in Progress
 
-- Slab: Stab Slab (V1) 
+* Slab: Stab Slab (V1)
 
-- Gunshot 
+* Gunshot
 
-- - Faceshot (V1) 
-- - Headshot (V3)
-- - Gunshot (V3)
+  * Faceshot (V1)
+  * Headshot (V3)
+  * Gunshot (V3)
 
-- Footmare 
-- - Nightmare (V0)
-- - Elm Street (v1)
-- - Freddy (V2)
+* Footmare
 
-- Boysize 
+  * Nightmare (V0)
+  * Elm Street (v1)
+  * Freddy (V2)
+
+* Boysize
 
 a bunch of V0’s
 
-- Triangle 
-
+* Triangle
 
 a bunch of V2’s
 
@@ -101,7 +100,7 @@ a bunch of V2’s
 
 Stumble Bum (V2)
 
-### The Angler (V2) 
+### The Angler (V2)
 
 Area: K-Town
 
@@ -109,19 +108,19 @@ Area: K-Town
 
 Videos
 
-- [Joe's Valley Classics > 2:16](https://youtu.be/bizRT8KdLzo?t=2m16s)
+* [Joe's Valley Classics > 2:16](https://youtu.be/bizRT8KdLzo?t=2m16s)
 
 # Crashpad Rental
 
-- [University of Utah Campus Recreation Center](https://campusrec.utah.edu/programs/outdoor-adventures/rental/index.php)
+* [University of Utah Campus Recreation Center](https://campusrec.utah.edu/programs/outdoor-adventures/rental/index.php)
 
 Cheapest of all I found, they have crashpad for $10 for a weekend (3 nights). Whether the price is till current I need to check out on my own.
 
-- [IME SLC](https://www.facebook.com/pages/International-Mountain-Equipment-Ime/138914342823683)
+* [IME SLC](https://www.facebook.com/pages/International-Mountain-Equipment-Ime/138914342823683)
 
-- [Mountainworks](https://www.facebook.com/Mountainworks-89123578696/) in Provo, UT. Though on the way to Orangeville.
+* [Mountainworks](https://www.facebook.com/Mountainworks-89123578696/) in Provo, UT. Though on the way to Orangeville.
 
-- [My Airbnb Host](https://www.airbnb.com.sg/users/show/77031235) has a few different crashpads and they range from 5$ to 8$ a day.
+* [My Airbnb Host](https://www.airbnb.com.sg/users/show/77031235) has a few different crashpads and they range from 5$ to 8$ a day.
 
 Also according to her:
 
@@ -132,12 +131,11 @@ Also according to her:
 > Either be funny or be quiet.  
 > -- _Essential Guide to Living_
 
-
 ## Coffee
 
 I love coffee. Coffee is my water. I dig the cities out for coffee places. And guess what, there's an interesting cafe at Orangeville!
 
-- [Cup of Joe’s](https://goo.gl/maps/qMiyWe8qwW92)
+* [Cup of Joe’s](https://goo.gl/maps/qMiyWe8qwW92)
 
 Apparently they also have quite a few fans on their [Facebook Page](https://www.facebook.com/cupofjoes). But most amazing of all, they actually take coffee beans, like this bag called _Warm Up Boulder_.
 
@@ -145,31 +143,30 @@ Apparently they also have quite a few fans on their [Facebook Page](https://www.
 
 ## Food
 
-- [Palenque Gourmet Mexican Grill](https://goo.gl/maps/fD8YwAymXjC2)
+* [Palenque Gourmet Mexican Grill](https://goo.gl/maps/fD8YwAymXjC2)
 
 # References
 
 ## Books
 
-- [An Insightful Guide to Joe's Valley Bouldering](https://www.amazon.com/Insightful-Guide-Joes-Valley-Bouldering/dp/1427650896)
+* [An Insightful Guide to Joe's Valley Bouldering](https://www.amazon.com/Insightful-Guide-Joes-Valley-Bouldering/dp/1427650896)
 
 ## Website Guides
 
-- [theCrag — Joe’s Valley](https://www.thecrag.com/climbing/united-states/joes-valley)
-- [WikiBoulder — Joe’s Valley](http://wikiboulder.com/guides/guide/Utah/Joes_Valley)
-- [Joe’s Valley Festival](https://www.facebook.com/joesvalleybouldering/)
-- [drtopo - Joe’s Valley](http://www.drtopo.com/north-america/united-states/utah/joe-s-valley)
-
+* [theCrag — Joe’s Valley](https://www.thecrag.com/climbing/united-states/joes-valley)
+* [WikiBoulder — Joe’s Valley](http://wikiboulder.com/guides/guide/Utah/Joes_Valley)
+* [Joe’s Valley Festival](https://www.facebook.com/joesvalleybouldering/)
+* [drtopo - Joe’s Valley](http://www.drtopo.com/north-america/united-states/utah/joe-s-valley)
 
 ## Instagram
 
-- [#joesvalley](https://www.instagram.com/explore/tags/joesvalley/)
+* [#joesvalley](https://www.instagram.com/explore/tags/joesvalley/)
 
 ## Articles
 
-- [Essential Guide to Living](http://rvproj.com/2012/11/29/the-essential-guide-to-joes-valley-living/)
-- [Joe's Valley Bouldering](https://utah.com/joes-valley-bouldering-guide)
+* [Essential Guide to Living](http://rvproj.com/2012/11/29/the-essential-guide-to-joes-valley-living/)
+* [Joe's Valley Bouldering](https://utah.com/joes-valley-bouldering-guide)
 
 ## Misc
 
-- [Corporate Map](https://www.google.com/maps/d/u/0/edit?mid=16hbyMTTFuIlw7e6DllSHZ2Z95edmI8y-&ll=39.30773074574475%2C-111.11517843301266&z=17)
+* [Corporate Map](https://www.google.com/maps/d/u/0/edit?mid=16hbyMTTFuIlw7e6DllSHZ2Z95edmI8y-&ll=39.30773074574475%2C-111.11517843301266&z=17)
