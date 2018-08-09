@@ -54,9 +54,250 @@ I am going there at a fairly hot season (mid of August). So I also try to figure
 
 ## New Joe's
 
-**Videos**
+### Midnight Madness
 
-* [Chad on Warm Me Up Scotty (V1)](https://www.youtube.com/watch?v=wadwAsRyhbw)
+Very overhanging boulder, the landing does not look very nice.
+
+List of Climbed Problems
+
+| Problem | Grade | Classic | Notes |
+|:---------|:----------:|:-:|:-------|
+|Madness|V3|🌟|slopey traverse alongside the overhang edge|
+
+### Midnight Murder
+
+A tilted boulder with a bit messy landing.
+
+List of Climbed Problems
+
+| Problem | Grade | Classic | Notes |
+|:---------|:----------:|:-----:|:---|
+|Midnight Murder|V4|🌟🌟🌟|lieback, slopy, arete|
+|Slick Rick|V5|🌟||
+
+### Roll the Dice
+
+Looks quite tall from the picture. Bad landing on the sides (got blocking rocks).
+
+List of Climbed Problems
+
+| Problem | Grade | Classic | Notes |
+|:--------|:----------:|:-------:|:------|
+|Desperado|V1|🌟🌟🌟|slab with pockets|
+|Desperate|V3|🌟🌟🌟|
+|Roll the Dice|V5|🌟🌟🌟|technical slab|
+|Snake Eyes|V2|🌟🌟|slopey dishes on slab over bad landing|
+
+### Pimpin Jeans
+
+Irregular shaped boulder. The landing looks quite nice.
+
+List of Climbed Problems
+
+| Problem | Grade | Classic | Notes |
+|:--------|:----------:|:-------:|:------|
+|Stinky Jeans|V2|🌟🌟|sidepulls and technical mantle|
+|Pimpin Jean|V4|🌟🌟🌟|crimps|
+|Bad Genes|V3|🌟🌟🌟|incuts and jugs|
+
+### Sphere
+
+Not sure why it is called sphere. Looks like two rocks facing each other.
+
+List of Climbed Problems
+
+| Problem | Grade | Classic | Notes |
+|:--------|:----------:|:-------:|:------|
+|Sphere|V1|🌟🌟🌟|lieback arete slopy|
+|Reading Rainbow|V5|🌟🌟|gaston crimp incut sidepull|
+|Lamar|V1|🌟||
+
+### Chips
+
+Overhanging big boulder. The other side has a very overhanging route that is a project.
+
+List of Climbed Problems
+
+| Problem | Grade | Classic | Notes |
+|:--------|:----------:|:-------:|:------|
+|American Wimp|V6|🌟||
+|American Gigolo|V7|🌟🌟|dyno??|
+|Chips|V7|🌟🌟🌟|double undercling sloper & sloper sidepull|
+|Planet of the Apes|V7|🌟🌟🌟||
+|Bubbatronic|V9|🌟||
+
+### Nerve Damage
+
+A solid boulder over not very good landing.
+
+List of Climbed Problems
+
+| Problem | Grade | Classic | Notes |
+|:--------|:----------:|:-------:|:------|
+|Fried|V1|🌟||
+|Chickenish|V2|🌟🌟||
+|Sexy Chicken|V1|🌟🌟🌟||
+|Sex Machine|V8|🌟🌟||
+|No Machine|V1|🌟||
+|Nerve Damage|V6|🌟🌟🌟||
+|The Crack|V2|🌟||
+|The Dude|V4|🌟🌟|
+|Big Lebowski|V4|🌟🌟🌟|
+|Sherpa|V8|🌟🌟||
+
+
+### Contact
+
+Irregular (interesting) shaped two boulders in contact over good landing.
+
+List of Climbed Problems
+
+| Problem | Grade | Classic | Notes |
+|:--------|:----------:|:-------:|:------|
+|Not So Hot|V2|🌟||
+|Contact|V5|🌟🌟||
+|Crusty|V4|🌟🌟🌟|goes into the contact|
+|Stink Eye|V7|🌟||
+|David Hasselhoff|V4|🌟||
+|Attention|V6|🌟||
+
+### Sneakers
+
+Small boulder over good landing, easy routes, perfect to begin with!!
+
+List of Climbed Problems
+
+| Problem | Grade | Classic | Notes |
+|:--------|:----------:|:-------:|:------|
+|Screamer|V0|🌟||
+|Sneaker|V1|🌟||
+|Sketcher|V0|🌟||
+
+### Road Boulder
+
+A big bigger than _Sneakers_, but also looks quite beginner friendly. Got more interesting problems.
+
+List of Climbed Problems
+
+| Problem | Grade | Classic | Notes |
+|:--------|:----------:|:-------:|:------|
+|Poop Man|V2|🌟🌟||
+|Mad Man|V3|🌟🌟||
+|Turds|V1|🌟||
+|Sandy|V3|||
+|Dark Hole|V4|🌟||
+|Stand Up|V3|🌟||
+|Crack Attack|V3|🌟||
+
+### Pocket Rocket
+
+Pockets?
+
+List of Climbed Problems
+
+| Problem | Grade | Classic | Notes |
+|:--------|:----------:|:-------:|:------|
+|Easy|V1|🌟||
+|Blender|V5|🌟🌟||
+|Scary Baby|V4|🌟🌟||
+|Pocket Rocket|V7|🌟🌟🌟||
+
+### Free Cell
+
+A tall boulder near a tree
+
+List of Climbed Problems
+
+| Problem | Grade | Classic | Notes |
+|:--------|:----------:|:-------:|:------|
+|Free Cell|V2|🌟🌟||
+
+### Griptape
+
+A neat shaped boulder, has a rail edge
+
+List of Climbed Problems
+
+| Problem | Grade | Classic | Notes |
+|:--------|:----------:|:-------:|:------|
+|Grip Tape|V3|🌟🌟||
+|Conman|V2|🌟🌟||
+|Tennessee|V1|🌟||
+|What Where|V3|🌟🌟||
+|Launch Pad|V1|🌟🌟||
+
+### Cherry Choke
+
+Its classic problem that names this boulder is a V2. But it actually has quite a few highly recommended problems.
+
+List of Climbed Problems
+
+| Problem | Grade | Classic | Notes |
+|:--------|:----------:|:-------:|:------|
+|You Know You Want It|V7|🌟🌟🌟||
+|I'd Rather Be Climbing Her|V6|🌟🌟🌟||
+|Snook|V4|🌟||
+|Sex Thing|V4|🌟🌟🌟||
+|Cherry Choke|V2|🌟🌟🌟||
+|Don't Leave Thirsty|V1|🌟🌟||
+
+### Self Service
+
+Triangular shaped big boulder.
+
+List of Climbed Problems
+
+| Problem | Grade | Classic | Notes |
+|:--------|:----------:|:-------:|:------|
+|Whopper|V1|🌟🌟||
+|Self Service|V4|🌟🌟🌟||
+
+### Resident Evil
+
+A must-visit boulder (for strong climbers). A lot of problems looking fun and epic.
+
+List of Climbed Problems
+
+| Problem | Grade | Classic | Notes |
+|:--------|:----------:|:-------:|:------|
+|Phoner|V2|🌟||
+|Phoney Bologne|V7|🌟🌟🌟||
+|Freak|V10|🌟🌟||
+|Two Finger Variation|V9|🌟🌟🌟||
+|Big Boy|V7|🌟🌟🌟||
+|Downclimb|V1|🌟🌟|does this mean _the_ downclimb of this boulder?|
+|Snake Mouth|V3|🌟🌟🌟||
+|Scary|V3|🌟🌟🌟||
+|Black Lung|V13|🌟🌟🌟||
+|Resident Evil|V10|🌟🌟🌟||
+|Stand-Up|V7|🌟🌟||
+
+### Warm Me Up
+
+The landing doesn't look so nice but the problems look fun.
+
+List of Climbed Problems
+
+| Problem | Grade | Classic | Notes |
+|:--------|:----------:|:-------:|:------|
+|Warm Me Up Scotty|V1|🌟🌟🌟|[Chad on Warm Me Up Scotty (V1)](https://www.youtube.com/watch?v=wadwAsRyhbw)|
+|Getting Warmer|V2|🌟🌟🌟||
+|Get Shorty|V3|🌟🌟||
+|Blind Nights|V3|🌟||
+|Sun In My Eye|V5|🌟🌟||
+|Sun In My Eye Traverse|V6|🌟||
+
+
+
+### Template
+
+Describe the boulder here.
+
+List of Climbed Problems
+
+| Problem | Grade | Classic | Notes |
+|:--------|:----------:|:-------:|:------|
+
 
 ## Left Fork
 
