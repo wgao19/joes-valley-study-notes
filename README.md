@@ -146,7 +146,7 @@ List of Climbed Problems
 |Sherpa|V8|🌟🌟||
 
 
--[ ] Contact
+- [ ] Contact
 
 Irregular (interesting) shaped two boulders in contact over good landing.
 
@@ -161,7 +161,7 @@ List of Climbed Problems
 |David Hasselhoff|V4|🌟||
 |Attention|V6|🌟||
 
--[ ] Sneakers
+- [ ] Sneakers
 
 Small boulder over good landing, easy routes, perfect to begin with!!
 
@@ -173,7 +173,7 @@ List of Climbed Problems
 |Sneaker|V1|🌟||
 |Sketcher|V0|🌟||
 
--[ ] Road Boulder
+- [ ] Road Boulder
 
 A big bigger than _Sneakers_, but also looks quite beginner friendly. Got more interesting problems.
 
@@ -226,7 +226,7 @@ List of Climbed Problems
 |What Where|V3|🌟🌟||
 |Launch Pad|V1|🌟🌟||
 
--[ ] Cherry Choke
+- [ ] Cherry Choke
 
 Its classic problem that names this boulder is a V2. But it actually has quite a few highly recommended problems.
 
@@ -252,7 +252,7 @@ List of Climbed Problems
 |Whopper|V1|🌟🌟||
 |Self Service|V4|🌟🌟🌟||
 
--[ ] Resident Evil
+- [ ] Resident Evil
 
 A must-visit boulder (for strong climbers). A lot of problems looking fun and epic.
 
@@ -272,7 +272,7 @@ List of Climbed Problems
 |Resident Evil|V10|🌟🌟🌟||
 |Stand-Up|V7|🌟🌟||
 
--[ ] Warm Me Up
+- [ ] Warm Me Up
 
 The landing doesn't look so nice but the problems look fun.
 
