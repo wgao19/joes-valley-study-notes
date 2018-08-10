@@ -54,7 +54,7 @@ I am going there at a fairly hot season (mid of August). So I also try to figure
 
 ## New Joe's
 
-### Midnight Madness
+**Midnight Madness**
 
 Very overhanging boulder, the landing does not look very nice.
 
@@ -64,7 +64,7 @@ List of Climbed Problems
 |:---------|:----------:|:-:|:-------|
 |Madness|V3|🌟|slopey traverse alongside the overhang edge|
 
-### Midnight Murder
+**Midnight Murder**
 
 A tilted boulder with a bit messy landing.
 
@@ -75,7 +75,7 @@ List of Climbed Problems
 |Midnight Murder|V4|🌟🌟🌟|lieback, slopy, arete|
 |Slick Rick|V5|🌟||
 
-### Roll the Dice
+**Roll the Dice**
 
 Looks quite tall from the picture. Bad landing on the sides (got blocking rocks).
 
@@ -88,7 +88,7 @@ List of Climbed Problems
 |Roll the Dice|V5|🌟🌟🌟|technical slab|
 |Snake Eyes|V2|🌟🌟|slopey dishes on slab over bad landing|
 
-### Pimpin Jeans
+**Pimpin Jeans**
 
 Irregular shaped boulder. The landing looks quite nice.
 
@@ -100,7 +100,7 @@ List of Climbed Problems
 |Pimpin Jean|V4|🌟🌟🌟|crimps|
 |Bad Genes|V3|🌟🌟🌟|incuts and jugs|
 
-### Sphere
+**Sphere**
 
 Not sure why it is called sphere. Looks like two rocks facing each other.
 
@@ -112,7 +112,7 @@ List of Climbed Problems
 |Reading Rainbow|V5|🌟🌟|gaston crimp incut sidepull|
 |Lamar|V1|🌟||
 
-### Chips
+**Chips**
 
 Overhanging big boulder. The other side has a very overhanging route that is a project.
 
@@ -126,7 +126,7 @@ List of Climbed Problems
 |Planet of the Apes|V7|🌟🌟🌟||
 |Bubbatronic|V9|🌟||
 
-### Nerve Damage
+**Nerve Damage**
 
 A solid boulder over not very good landing.
 
@@ -145,7 +145,8 @@ List of Climbed Problems
 |Big Lebowski|V4|🌟🌟🌟||
 |Sherpa|V8|🌟🌟||
 
-### Contact
+
+**Contact**
 
 Irregular (interesting) shaped two boulders in contact over good landing.
 
@@ -160,7 +161,7 @@ List of Climbed Problems
 |David Hasselhoff|V4|🌟||
 |Attention|V6|🌟||
 
-### Sneakers
+**Sneakers**
 
 Small boulder over good landing, easy routes, perfect to begin with!!
 
@@ -172,7 +173,7 @@ List of Climbed Problems
 |Sneaker|V1|🌟||
 |Sketcher|V0|🌟||
 
-### Road Boulder
+**Road Boulder**
 
 A big bigger than _Sneakers_, but also looks quite beginner friendly. Got more interesting problems.
 
@@ -188,7 +189,7 @@ List of Climbed Problems
 |Stand Up|V3|🌟||
 |Crack Attack|V3|🌟||
 
-### Pocket Rocket
+**Pocket Rocket**
 
 Pockets?
 
@@ -201,7 +202,7 @@ List of Climbed Problems
 |Scary Baby|V4|🌟🌟||
 |Pocket Rocket|V7|🌟🌟🌟||
 
-### Free Cell
+**Free Cell**
 
 A tall boulder near a tree
 
@@ -211,7 +212,7 @@ List of Climbed Problems
 |:--------|:----------:|:-------:|:------|
 |Free Cell|V2|🌟🌟||
 
-### Griptape
+**Griptape**
 
 A neat shaped boulder, has a rail edge
 
@@ -225,7 +226,7 @@ List of Climbed Problems
 |What Where|V3|🌟🌟||
 |Launch Pad|V1|🌟🌟||
 
-### Cherry Choke
+**Cherry Choke**
 
 Its classic problem that names this boulder is a V2. But it actually has quite a few highly recommended problems.
 
@@ -240,7 +241,7 @@ List of Climbed Problems
 |Cherry Choke|V2|🌟🌟🌟||
 |Don't Leave Thirsty|V1|🌟🌟||
 
-### Self Service
+**Self Service**
 
 Triangular shaped big boulder.
 
@@ -251,7 +252,7 @@ List of Climbed Problems
 |Whopper|V1|🌟🌟||
 |Self Service|V4|🌟🌟🌟||
 
-### Resident Evil
+**Resident Evil**
 
 A must-visit boulder (for strong climbers). A lot of problems looking fun and epic.
 
@@ -271,7 +272,7 @@ List of Climbed Problems
 |Resident Evil|V10|🌟🌟🌟||
 |Stand-Up|V7|🌟🌟||
 
-### Warm Me Up
+**Warm Me Up**
 
 The landing doesn't look so nice but the problems look fun.
 
@@ -288,7 +289,7 @@ List of Climbed Problems
 
 
 
-### Template
+**Template**
 
 Describe the boulder here.
 
