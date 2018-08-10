@@ -84,7 +84,7 @@ List of Climbed Problems
 | Problem | Grade | Classic | Notes |
 |:--------|:----------:|:-------:|:------|
 |Desperado|V1|🌟🌟🌟|slab with pockets|
-|Desperate|V3|🌟🌟🌟|
+|Desperate|V3|🌟🌟🌟||
 |Roll the Dice|V5|🌟🌟🌟|technical slab|
 |Snake Eyes|V2|🌟🌟|slopey dishes on slab over bad landing|
 
@@ -141,10 +141,9 @@ List of Climbed Problems
 |No Machine|V1|🌟||
 |Nerve Damage|V6|🌟🌟🌟||
 |The Crack|V2|🌟||
-|The Dude|V4|🌟🌟|
-|Big Lebowski|V4|🌟🌟🌟|
+|The Dude|V4|🌟🌟||
+|Big Lebowski|V4|🌟🌟🌟||
 |Sherpa|V8|🌟🌟||
-
 
 ### Contact
 
@@ -376,8 +375,7 @@ Also according to her:
 
 I love coffee. Coffee is my water. I dig the cities out for coffee places. And guess what, there's an interesting cafe at Orangeville!
 
-* [Cup of Joe’s](https://goo.gl/maps/qMiyWe8qwW92)
-
+* [Cup of Joe’s](https://goo.gl/maps/qMiyWe8qwW92) 
 Apparently they also have quite a few fans on their [Facebook Page](https://www.facebook.com/cupofjoes). But most amazing of all, they actually take coffee beans, like this bag called _Warm Up Boulder_.
 
 ![Warm Up Boulder Coffee Beans](https://lh5.googleusercontent.com/p/AF1QipNz1rWah4aPbTE1k2WVdPcTBtcPFQyxrhhc2rbO=w203-h162-k-no)
