@@ -313,6 +313,18 @@ How does _Better Than Coffee_ get its name? There's also a _Better Than Starbuck
 
 * [Joe's Valley - Better Than Coffee](https://www.youtube.com/watch?v=FeYBE6N5GEs)
 
+# Notes by Day
+
+## Day 0 :: Arrival
+
+_Aug 10 2018_
+
+Two things TIL's:
+
+- **The bouldering guidebook is rare.** It's out of print and a used copy is selling at $280 on amazon. The REI near the Front SLC is _said to_ help print a photocopy of a Utah bouldering guidebook (they call it "the black bible) for $20. So I was really lucky of me to have obtained one from my friend! After checking with my airbnb is the similar result. They also told me that **the newest guidebook will come out later this year or next.** People here get some printed version from a (should use _the_ instead?) coffee shop.
+
+- **Bouldering at night is a thing** because it is too hot during the day. It is suggested to go out early mornings or climb at night using a spotlight. So my jetlag is gonna help isn't it?
+
 # Section Work in Progress
 
 * Slab: Stab Slab (V1)
