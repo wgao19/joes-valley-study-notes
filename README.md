@@ -14,7 +14,7 @@ When I knew I was going to SLC for my work related conference, I did not yet kno
 
 So, in my broad first searches I found out that Indian Creek is definitely the hottest of all, but perhaps too hot (temperature) that I'll have to miss it. Also I am not confident enough to lead a trad climb trip on my own. I'm not so rich to hire rock guides. So that plan kind of have to wait.. Meanwhile I found out about Joe's Valley. I put that on my list though hold because it being two and half hour drive from SLC is a bit far for me to make up my decision. At least it was not first option as I was staying in SLC and was not ready to make a one day trip back... I was mainly looking at LCC until...
 
-![it all starts with...](https://scontent-sin6-2.cdninstagram.com/vp/b368fb42b83009461a9df6a1c36d6abb/5B6CAB88/t51.12442-15/e35/37829526_2097622940479944_5971869197196591104_n.jpg)
+![it all starts with...](assets/story-image--1.jpg)
 
 ## Words of Advice from Senpais
 
@@ -53,6 +53,10 @@ On the other side, the printed guides I would just feel free to write and mark a
 I am going there at a fairly hot season (mid of August). So I also try to figure out which side the boulder is facing and whether it has shades.
 
 ## New Joe's
+
+I found [this corporate map](https://www.google.com/maps/d/u/0/edit?mid=16hbyMTTFuIlw7e6DllSHZ2Z95edmI8y-&ll=39.30773061616799%2C-111.11517843301266&z=17) very helpful to have marked _to the details to boulders_ of Joe's. And it's very updated. Here's the screenshot for New Joe's:
+
+![new joe's map](assets/map--new-joes.png)
 
 **Midnight Madness**
 
@@ -301,7 +305,15 @@ List of Climbed Problems
 
 ## Left Fork
 
+Again [this corporate map](https://www.google.com/maps/d/u/0/edit?mid=16hbyMTTFuIlw7e6DllSHZ2Z95edmI8y-&ll=39.30773061616799%2C-111.11517843301266&z=17) has some very detailed boulder locations. Here's the screenshot for the left fork:
+
+![left fork map](assets/map--left-fork.png)
+
 ## Right Fork
+
+Aand again [this corporate map](https://www.google.com/maps/d/u/0/edit?mid=16hbyMTTFuIlw7e6DllSHZ2Z95edmI8y-&ll=39.30773061616799%2C-111.11517843301266&z=17) has some very detailed boulder locations. Here's the screenshot for the right fork:
+
+![right fork map](assets/map--right-fork.png)
 
 ### Warm Up Area
 
