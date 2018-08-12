@@ -36,11 +36,13 @@ OK, fair enough. I was hella scared the first time I did outdoor sport climb as 
 
 Should I look for a way down first before climbing up every boulder?
 
+> My later self: Yes you should!!! Climb the downclimbs for each boulder before climbing the difficult ones!!! And put a crashpad beneath it!!! If there's a tree, use it!!!
+
 How tall is Isaac Caldiero (author of the guidebook)?
 
 # Bouldering at Joe's By Region
 
-a.k.a. guidebook reading
+~a.k.a. guidebook reading~
 
 I found two sources of guides for Joe's Valley. One is a guidebook (see book reference #1) I borrowed from a friend, a route setter / gym manager at one of our local gyms, also a v10 or plus climber, who happens to have climbed at Joe's Valley a few years back. The other one is drtopo's free guide, which can be downloaded [here](http://www.drtopo.com/north-america/united-states/utah/joe-s-valley).
 
@@ -52,9 +54,70 @@ On the other side, the printed guides I would just feel free to write and mark a
 
 I am going there at a fairly hot season (mid of August). So I also try to figure out which side the boulder is facing and whether it has shades.
 
+## Left Fork
+
+I found [this corporate map](https://www.google.com/maps/d/u/0/edit?mid=16hbyMTTFuIlw7e6DllSHZ2Z95edmI8y-&ll=39.30773061616799%2C-111.11517843301266&z=17) very helpful to have marked _to the details to boulders_ of Joe's. And it's very updated. 
+Here's the screenshot for the left fork:
+
+![left fork map](assets/map--left-fork.png)
+
+### Riverside Boulders
+
+**K-Town**
+
+This is perhaps the most classic, mostly visited, area of Joe's Valley. The beautiful Angler (V2) sits just on top of the riverbank. In the summer shade I live in paradise.
+
+![K-Town: The Angler (V2)](assets/boulders--k-town-the-angler.jpg)
+
+| Problem         | Grade             | Classic | Notes                                                     |
+| :-------------- | :---------------: | :-----: | :-------------------------------------------------------- |
+| The Angler      | V2???             | 🌟🌟🌟  | The bottom (crux, very small footholes) is very polished. |
+| Amtrak          | Definitely NOT V2 | 🌟      |                                                           |
+| Feels Like Grit | V8                | 🌟🌟🌟  |                                                           |
+| Shit            | V4                | 🌟      |                                                           |
+| K-Town          | V4                | 🌟🌟🌟  |                                                           |
+| B-Town          | V3                | 🌟      |                                                           |
+| Downclimb       | V0                | 🌟      | I need a refresh on my V0 then                            |
+
+**Kelly's Rock**
+
+This is a very special boulder near the river. It is huge and wide on the side facing the street. There are large sloperay holes on the boulder.
+
+> From this boulder I realized that by bouldering in indoor gyms I'm actually lacking the experience and comfort to top out a boulder. Even the movement is quite simple I feel chickened out before topping out and would decide to downclimb. This boulder has an array of problems from shorter to taller. The taller the problem is, the more scared I am to top out...
+
+| Problem        | Grade | Classic | Notes                             |
+| :------------- | :---: | :-----: | :-------------------------------- |
+| Kelly's Arete  | V5    | 🌟🌟🌟  |                                   |
+| Chi            | V3    | 🌟🌟🌟  |                                   |
+| To Infinity    | V1    | 🌟🌟🌟  | Tallest among all those problems. |
+| And Beyond     | V2    | 🌟🌟🌟  |                                   |
+| True Love      | V2    | 🌟🌟🌟  | Pinch pocket then go!!!           |
+| Club Tan       | V2    | 🌟🌟🌟  |                                   |
+| Downclimb Left | V3    | 🌟🌟    |                                   |
+
+
+**Template**
+
+Describe the boulder here.
+
+List of Climbed Problems
+
+| Problem | Grade | Classic | Notes |
+| :------ | :---: | :-----: | :---- |
+
+
+
+## Right Fork
+
+Again [this corporate map](https://www.google.com/maps/d/u/0/edit?mid=16hbyMTTFuIlw7e6DllSHZ2Z95edmI8y-&ll=39.30773061616799%2C-111.11517843301266&z=17) has some very detailed boulder locations. 
+Here's the screenshot for the right fork:
+
+![right fork map](assets/map--right-fork.png)
+
 ## New Joe's
 
-I found [this corporate map](https://www.google.com/maps/d/u/0/edit?mid=16hbyMTTFuIlw7e6DllSHZ2Z95edmI8y-&ll=39.30773061616799%2C-111.11517843301266&z=17) very helpful to have marked _to the details to boulders_ of Joe's. And it's very updated. Here's the screenshot for New Joe's:
+Aand again [this corporate map](https://www.google.com/maps/d/u/0/edit?mid=16hbyMTTFuIlw7e6DllSHZ2Z95edmI8y-&ll=39.30773061616799%2C-111.11517843301266&z=17) has some very detailed boulder locations. 
+Here's the screenshot for New Joe's:
 
 ![new joe's map](assets/map--new-joes.png)
 
@@ -65,7 +128,7 @@ Very overhanging boulder, the landing does not look very nice.
 List of Climbed Problems
 
 | Problem | Grade | Classic | Notes |
-|:---------|:----------:|:-:|:-------|
+| :------ | :---: |:-:|:-------|
 |Madness|V3|🌟|slopey traverse alongside the overhang edge|
 
 **Midnight Murder**
@@ -74,10 +137,10 @@ A tilted boulder with a bit messy landing.
 
 List of Climbed Problems
 
-| Problem | Grade | Classic | Notes |
-|:---------|:----------:|:-----:|:---|
-|Midnight Murder|V4|🌟🌟🌟|lieback, slopy, arete|
-|Slick Rick|V5|🌟||
+| Problem         | Grade | Classic | Notes                 |
+| :-------------- | :---: | :-----: | :-------------------- |
+| Midnight Murder | V4    | 🌟🌟🌟  | lieback, slopy, arete |
+| Slick Rick      | V5    | 🌟      |
 
 **Roll the Dice**
 
@@ -85,12 +148,12 @@ Looks quite tall from the picture. Bad landing on the sides (got blocking rocks)
 
 List of Climbed Problems
 
-| Problem | Grade | Classic | Notes |
-|:--------|:----------:|:-------:|:------|
-|Desperado|V1|🌟🌟🌟|slab with pockets|
-|Desperate|V3|🌟🌟🌟||
-|Roll the Dice|V5|🌟🌟🌟|technical slab|
-|Snake Eyes|V2|🌟🌟|slopey dishes on slab over bad landing|
+| Problem       | Grade | Classic | Notes                                  |
+| :------------ | :---: | :-----: | :------------------------------------- |
+| Desperado     | V1    | 🌟🌟🌟  | slab with pockets                      |
+| Desperate     | V3    | 🌟🌟🌟  |
+| Roll the Dice | V5    | 🌟🌟🌟  | technical slab                         |
+| Snake Eyes    | V2    | 🌟🌟    | slopey dishes on slab over bad landing |
 
 **Pimpin Jeans**
 
@@ -98,11 +161,11 @@ Irregular shaped boulder. The landing looks quite nice.
 
 List of Climbed Problems
 
-| Problem | Grade | Classic | Notes |
-|:--------|:----------:|:-------:|:------|
-|Stinky Jeans|V2|🌟🌟|sidepulls and technical mantle|
-|Pimpin Jean|V4|🌟🌟🌟|crimps|
-|Bad Genes|V3|🌟🌟🌟|incuts and jugs|
+| Problem      | Grade | Classic | Notes                          |
+| :----------- | :---: | :-----: | :----------------------------- |
+| Stinky Jeans | V2    | 🌟🌟    | sidepulls and technical mantle |
+| Pimpin Jean  | V4    | 🌟🌟🌟  | crimps                         |
+| Bad Genes    | V3    | 🌟🌟🌟  | incuts and jugs                |
 
 **Sphere**
 
@@ -110,11 +173,11 @@ Not sure why it is called sphere. Looks like two rocks facing each other.
 
 List of Climbed Problems
 
-| Problem | Grade | Classic | Notes |
-|:--------|:----------:|:-------:|:------|
-|Sphere|V1|🌟🌟🌟|lieback arete slopy|
-|Reading Rainbow|V5|🌟🌟|gaston crimp incut sidepull|
-|Lamar|V1|🌟||
+| Problem         | Grade | Classic | Notes                       |
+| :-------------- | :---: | :-----: | :-------------------------- |
+| Sphere          | V1    | 🌟🌟🌟  | lieback arete slopy         |
+| Reading Rainbow | V5    | 🌟🌟    | gaston crimp incut sidepull |
+| Lamar           | V1    | 🌟      |
 
 **Chips**
 
@@ -122,13 +185,13 @@ Overhanging big boulder. The other side has a very overhanging route that is a p
 
 List of Climbed Problems
 
-| Problem | Grade | Classic | Notes |
-|:--------|:----------:|:-------:|:------|
-|American Wimp|V6|🌟||
-|American Gigolo|V7|🌟🌟|dyno??|
-|Chips|V7|🌟🌟🌟|double undercling sloper & sloper sidepull|
-|Planet of the Apes|V7|🌟🌟🌟||
-|Bubbatronic|V9|🌟||
+| Problem            | Grade | Classic | Notes                                      |
+| :----------------- | :---: | :-----: | :----------------------------------------- |
+| American Wimp      | V6    | 🌟      |
+| American Gigolo    | V7    | 🌟🌟    | dyno??                                     |
+| Chips              | V7    | 🌟🌟🌟  | double undercling sloper & sloper sidepull |
+| Planet of the Apes | V7    | 🌟🌟🌟  |
+| Bubbatronic        | V9    | 🌟      |
 
 **Nerve Damage**
 
@@ -136,18 +199,18 @@ A solid boulder over not very good landing.
 
 List of Climbed Problems
 
-| Problem | Grade | Classic | Notes |
-|:--------|:----------:|:-------:|:------|
-|Fried|V1|🌟||
-|Chickenish|V2|🌟🌟||
-|Sexy Chicken|V1|🌟🌟🌟||
-|Sex Machine|V8|🌟🌟||
-|No Machine|V1|🌟||
-|Nerve Damage|V6|🌟🌟🌟||
-|The Crack|V2|🌟||
-|The Dude|V4|🌟🌟||
-|Big Lebowski|V4|🌟🌟🌟||
-|Sherpa|V8|🌟🌟||
+| Problem      | Grade | Classic | Notes |
+| :----------- | :---: | :-----: | :---- |
+| Fried        | V1    | 🌟      |
+| Chickenish   | V2    | 🌟🌟    |
+| Sexy Chicken | V1    | 🌟🌟🌟  |
+| Sex Machine  | V8    | 🌟🌟    |
+| No Machine   | V1    | 🌟      |
+| Nerve Damage | V6    | 🌟🌟🌟  |
+| The Crack    | V2    | 🌟      |
+| The Dude     | V4    | 🌟🌟    |
+| Big Lebowski | V4    | 🌟🌟🌟  |
+| Sherpa       | V8    | 🌟🌟    |
 
 
 **Contact**
@@ -156,14 +219,14 @@ Irregular (interesting) shaped two boulders in contact over good landing.
 
 List of Climbed Problems
 
-| Problem | Grade | Classic | Notes |
-|:--------|:----------:|:-------:|:------|
-|Not So Hot|V2|🌟||
-|Contact|V5|🌟🌟||
-|Crusty|V4|🌟🌟🌟|goes into the contact|
-|Stink Eye|V7|🌟||
-|David Hasselhoff|V4|🌟||
-|Attention|V6|🌟||
+| Problem          | Grade | Classic | Notes                 |
+| :--------------- | :---: | :-----: | :-------------------- |
+| Not So Hot       | V2    | 🌟      |
+| Contact          | V5    | 🌟🌟    |
+| Crusty           | V4    | 🌟🌟🌟  | goes into the contact |
+| Stink Eye        | V7    | 🌟      |
+| David Hasselhoff | V4    | 🌟      |
+| Attention        | V6    | 🌟      |
 
 **Sneakers**
 
@@ -171,11 +234,11 @@ Small boulder over good landing, easy routes, perfect to begin with!!
 
 List of Climbed Problems
 
-| Problem | Grade | Classic | Notes |
-|:--------|:----------:|:-------:|:------|
-|Screamer|V0|🌟||
-|Sneaker|V1|🌟||
-|Sketcher|V0|🌟||
+| Problem  | Grade | Classic | Notes |
+| :------- | :---: | :-----: | :---- |
+| Screamer | V0    | 🌟      |
+| Sneaker  | V1    | 🌟      |
+| Sketcher | V0    | 🌟      |
 
 **Road Boulder**
 
@@ -183,15 +246,15 @@ A big bigger than _Sneakers_, but also looks quite beginner friendly. Got more i
 
 List of Climbed Problems
 
-| Problem | Grade | Classic | Notes |
-|:--------|:----------:|:-------:|:------|
-|Poop Man|V2|🌟🌟||
-|Mad Man|V3|🌟🌟||
-|Turds|V1|🌟||
-|Sandy|V3|||
-|Dark Hole|V4|🌟||
-|Stand Up|V3|🌟||
-|Crack Attack|V3|🌟||
+| Problem      | Grade | Classic | Notes |
+| :----------- | :---: | :-----: | :---- |
+| Poop Man     | V2    | 🌟🌟    |
+| Mad Man      | V3    | 🌟🌟    |
+| Turds        | V1    | 🌟      |
+| Sandy        | V3    |
+| Dark Hole    | V4    | 🌟      |
+| Stand Up     | V3    | 🌟      |
+| Crack Attack | V3    | 🌟      |
 
 **Pocket Rocket**
 
@@ -199,12 +262,12 @@ Pockets?
 
 List of Climbed Problems
 
-| Problem | Grade | Classic | Notes |
-|:--------|:----------:|:-------:|:------|
-|Easy|V1|🌟||
-|Blender|V5|🌟🌟||
-|Scary Baby|V4|🌟🌟||
-|Pocket Rocket|V7|🌟🌟🌟||
+| Problem       | Grade | Classic | Notes |
+| :------------ | :---: | :-----: | :---- |
+| Easy          | V1    | 🌟      |
+| Blender       | V5    | 🌟🌟    |
+| Scary Baby    | V4    | 🌟🌟    |
+| Pocket Rocket | V7    | 🌟🌟🌟  |
 
 **Free Cell**
 
@@ -212,9 +275,9 @@ A tall boulder near a tree
 
 List of Climbed Problems
 
-| Problem | Grade | Classic | Notes |
-|:--------|:----------:|:-------:|:------|
-|Free Cell|V2|🌟🌟||
+| Problem   | Grade | Classic | Notes |
+| :-------- | :---: | :-----: | :---- |
+| Free Cell | V2    | 🌟🌟    |
 
 **Griptape**
 
@@ -222,13 +285,13 @@ A neat shaped boulder, has a rail edge
 
 List of Climbed Problems
 
-| Problem | Grade | Classic | Notes |
-|:--------|:----------:|:-------:|:------|
-|Grip Tape|V3|🌟🌟||
-|Conman|V2|🌟🌟||
-|Tennessee|V1|🌟||
-|What Where|V3|🌟🌟||
-|Launch Pad|V1|🌟🌟||
+| Problem    | Grade | Classic | Notes |
+| :--------- | :---: | :-----: | :---- |
+| Grip Tape  | V3    | 🌟🌟    |
+| Conman     | V2    | 🌟🌟    |
+| Tennessee  | V1    | 🌟      |
+| What Where | V3    | 🌟🌟    |
+| Launch Pad | V1    | 🌟🌟    |
 
 **Cherry Choke**
 
@@ -236,14 +299,14 @@ Its classic problem that names this boulder is a V2. But it actually has quite a
 
 List of Climbed Problems
 
-| Problem | Grade | Classic | Notes |
-|:--------|:----------:|:-------:|:------|
-|You Know You Want It|V7|🌟🌟🌟||
-|I'd Rather Be Climbing Her|V6|🌟🌟🌟||
-|Snook|V4|🌟||
-|Sex Thing|V4|🌟🌟🌟||
-|Cherry Choke|V2|🌟🌟🌟||
-|Don't Leave Thirsty|V1|🌟🌟||
+| Problem                    | Grade | Classic | Notes |
+| :------------------------- | :---: | :-----: | :---- |
+| You Know You Want It       | V7    | 🌟🌟🌟  |
+| I'd Rather Be Climbing Her | V6    | 🌟🌟🌟  |
+| Snook                      | V4    | 🌟      |
+| Sex Thing                  | V4    | 🌟🌟🌟  |
+| Cherry Choke               | V2    | 🌟🌟🌟  |
+| Don't Leave Thirsty        | V1    | 🌟🌟    |
 
 **Self Service**
 
@@ -251,10 +314,10 @@ Triangular shaped big boulder.
 
 List of Climbed Problems
 
-| Problem | Grade | Classic | Notes |
-|:--------|:----------:|:-------:|:------|
-|Whopper|V1|🌟🌟||
-|Self Service|V4|🌟🌟🌟||
+| Problem      | Grade | Classic | Notes |
+| :----------- | :---: | :-----: | :---- |
+| Whopper      | V1    | 🌟🌟    |
+| Self Service | V4    | 🌟🌟🌟  |
 
 **Resident Evil**
 
@@ -262,19 +325,19 @@ A must-visit boulder (for strong climbers). A lot of problems looking fun and ep
 
 List of Climbed Problems
 
-| Problem | Grade | Classic | Notes |
-|:--------|:----------:|:-------:|:------|
-|Phoner|V2|🌟||
-|Phoney Bologne|V7|🌟🌟🌟||
-|Freak|V10|🌟🌟||
-|Two Finger Variation|V9|🌟🌟🌟||
-|Big Boy|V7|🌟🌟🌟||
-|Downclimb|V1|🌟🌟|does this mean _the_ downclimb of this boulder?|
-|Snake Mouth|V3|🌟🌟🌟||
-|Scary|V3|🌟🌟🌟||
-|Black Lung|V13|🌟🌟🌟||
-|Resident Evil|V10|🌟🌟🌟||
-|Stand-Up|V7|🌟🌟||
+| Problem              | Grade | Classic | Notes                                           |
+| :------------------- | :---: | :-----: | :---------------------------------------------- |
+| Phoner               | V2    | 🌟      |
+| Phoney Bologne       | V7    | 🌟🌟🌟  |
+| Freak                | V10   | 🌟🌟    |
+| Two Finger Variation | V9    | 🌟🌟🌟  |
+| Big Boy              | V7    | 🌟🌟🌟  |
+| Downclimb            | V1    | 🌟🌟    | does this mean _the_ downclimb of this boulder? |
+| Snake Mouth          | V3    | 🌟🌟🌟  |
+| Scary                | V3    | 🌟🌟🌟  |
+| Black Lung           | V13   | 🌟🌟🌟  |
+| Resident Evil        | V10   | 🌟🌟🌟  |
+| Stand-Up             | V7    | 🌟🌟    |
 
 **Warm Me Up**
 
@@ -282,38 +345,14 @@ The landing doesn't look so nice but the problems look fun.
 
 List of Climbed Problems
 
-| Problem | Grade | Classic | Notes |
-|:--------|:----------:|:-------:|:------|
-|Warm Me Up Scotty|V1|🌟🌟🌟|[Chad on Warm Me Up Scotty (V1)](https://www.youtube.com/watch?v=wadwAsRyhbw)|
-|Getting Warmer|V2|🌟🌟🌟||
-|Get Shorty|V3|🌟🌟||
-|Blind Nights|V3|🌟||
-|Sun In My Eye|V5|🌟🌟||
-|Sun In My Eye Traverse|V6|🌟||
-
-
-
-**Template**
-
-Describe the boulder here.
-
-List of Climbed Problems
-
-| Problem | Grade | Classic | Notes |
-|:--------|:----------:|:-------:|:------|
-
-
-## Left Fork
-
-Again [this corporate map](https://www.google.com/maps/d/u/0/edit?mid=16hbyMTTFuIlw7e6DllSHZ2Z95edmI8y-&ll=39.30773061616799%2C-111.11517843301266&z=17) has some very detailed boulder locations. Here's the screenshot for the left fork:
-
-![left fork map](assets/map--left-fork.png)
-
-## Right Fork
-
-Aand again [this corporate map](https://www.google.com/maps/d/u/0/edit?mid=16hbyMTTFuIlw7e6DllSHZ2Z95edmI8y-&ll=39.30773061616799%2C-111.11517843301266&z=17) has some very detailed boulder locations. Here's the screenshot for the right fork:
-
-![right fork map](assets/map--right-fork.png)
+| Problem                | Grade | Classic | Notes                                                                         |
+| :--------------------- | :---: | :-----: | :---------------------------------------------------------------------------- |
+| Warm Me Up Scotty      | V1    | 🌟🌟🌟  | [Chad on Warm Me Up Scotty (V1)](https://www.youtube.com/watch?v=wadwAsRyhbw) |
+| Getting Warmer         | V2    | 🌟🌟🌟  |
+| Get Shorty             | V3    | 🌟🌟    |
+| Blind Nights           | V3    | 🌟      |
+| Sun In My Eye          | V5    | 🌟🌟    |
+| Sun In My Eye Traverse | V6    | 🌟      |
 
 ### Warm Up Area
 
@@ -336,6 +375,8 @@ Two things TIL's:
 - **The bouldering guidebook is rare.** It's out of print and a used copy is selling at $280 on amazon. The REI near the Front SLC is _said to_ help print a photocopy of a Utah bouldering guidebook (they call it "the black bible) for $20. So I was really lucky of me to have obtained one from my friend! After checking with my airbnb is the similar result. They also told me that **the newest guidebook will come out later this year or next.** People here get some printed version from a (should use _the_ instead?) coffee shop.
 
 - **Bouldering at night is a thing** because it is too hot during the day. It is suggested to go out early mornings or climb at night using a spotlight. So my jetlag is gonna help isn't it?
+
+- **Topping out is a thing** It wasn't until I am faced by real boulders that I realized how hard it seemed to me to top out a boulder. Regardless what the guidebook says, easy mantle, techy mantle, etc, they all are _scary_ mantles to me. And how scary it is depends on how high it is and whether or not a crashpad is in sight. Of course the latter is nullified when the former passes certain threshold. Really need to get myself ready for and used to topping out before bouldering outdoors.
 
 # Section Work in Progress
 
