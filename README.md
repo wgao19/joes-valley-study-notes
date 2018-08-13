@@ -1,8 +1,8 @@
 # Joe’s Valley
 
-This is a personalized study notes of _Joe's Valley_. I am a software engineer visiting SLC for React Rally this August. Off the time of my coding I am also a climber. Long story short I am preparing a side trip to Joe's Valley.
+This is a personalized study notes of _Joe's Valley_. I am a software engineer visiting SLC for React Rally this August. Off the time of my coding I am also a climber. Long story short this is how I decided on and started the study of this trip.
 
-As a climber I am doing 6b's on lead, and V3/4's on bouldering. With a recent focus on bouldering, Joe's Valley is such an interesting spot to experience. I have no prior experience for outdoor bouldering so this study notes will come from that perspective -- basics, safety, trip preparation, etc.
+![it all starts with...](assets/story-image--1.jpg)
 
 I wish this set of notes will help myself throughout this trip and hopefully more people like me in the future.
 
@@ -10,35 +10,29 @@ I did not include the source of friends / gyms I got help from in this writeup f
 
 # To Begin With...
 
-When I knew I was going to SLC for my work related conference, I did not yet know what I was going to do for the climbing. I was looking to hit the gym once I land, try to make some friends and find partners to do some outdoor climbing. I started my search on Utah climbing on all sources. Google, YouTube, Instagram. I followed a bunch of Utah / SLC climbers, and am getting more and more excited about visiting the region and the community. More stories to be told... But here's how I set my mind on Joe's Valley:
+As a climber I am doing 6b's on lead, and V3/4's on bouldering. With a recent focus on bouldering, Joe's Valley is such an interesting spot to experience. I have no prior experience for outdoor bouldering so this study notes will come from that perspective -- basics, safety, trip preparation, etc.
 
-So, in my broad first searches I found out that Indian Creek is definitely the hottest of all, but perhaps too hot (temperature) that I'll have to miss it. Also I am not confident enough to lead a trad climb trip on my own. I'm not so rich to hire rock guides. So that plan kind of have to wait.. Meanwhile I found out about Joe's Valley. I put that on my list though hold because it being two and half hour drive from SLC is a bit far for me to make up my decision. At least it was not first option as I was staying in SLC and was not ready to make a one day trip back... I was mainly looking at LCC until...
-
-![it all starts with...](assets/story-image--1.jpg)
+> I will mark most of my subjective thoughts like this.
 
 ## Words of Advice from Senpais
 
 I talked to a few people regarding how to boulder outdoors and here are some valuable tips that I learned:
 
-> Spotters are important. Climb with good partners who care about what you are doing.
+- Spotters are important. Climb with good partners who care about what you are doing.
+  > I definitely agree with this throughout my other climbing. But due to the nature of this trip, I'll make friends along my way.
 
-I definitely agree with this throughout my other climbing. But due to the nature of this trip, I'll make friends along my way.
+- Find the easiest boulders with good landing to begin with.
+  > This motivates one of the following sections. I put an effort in trying to find those easy problems with good landing.
 
-> Find the easiest boulders with good landing to begin with.
-
-This motivates one of the following sections. I put an effort in trying to find those easy problems with good landing.
-
-> I would probably not begin with somewhere like bishop, where the boulders are really high, even if it is very well-known.
-
-OK, fair enough. I was hella scared the first time I did outdoor sport climb as well. I definitely would not go somewhere that high.
+- I would probably not begin with somewhere like bishop, where the boulders are really high, even if it is very well-known.
+  > OK, fair enough. I was hella scared the first time I did outdoor sport climb as well. I definitely would not go somewhere that high.
 
 ## Silly Questions of Mine
 
-Should I look for a way down first before climbing up every boulder?
+- Should I look for a way down first before climbing up every boulder?
+  > My later self: Yes you should!!! Climb the downclimbs for each boulder before climbing the difficult ones!!! And put a crashpad beneath it!!! If there's a tree, use it!!!
 
-> My later self: Yes you should!!! Climb the downclimbs for each boulder before climbing the difficult ones!!! And put a crashpad beneath it!!! If there's a tree, use it!!!
-
-How tall is Isaac Caldiero (author of the guidebook)?
+- How tall is Isaac Caldiero (author of the guidebook)?
 
 # Bouldering at Joe's By Region
 
@@ -65,25 +59,47 @@ Here's the screenshot for the left fork:
 
 **K-Town**
 
-This is perhaps the most classic, mostly visited, area of Joe's Valley. The beautiful Angler (V2) sits just on top of the riverbank. In the summer shade I live in paradise.
+This is perhaps the most classic, mostly visited, area of Joe's Valley. 
+List of problems at _K-Town_ for reference first:
+
+| Problem         | Grade             | Classic | Notes                                                        |
+| :-------------- | :---------------: | :-----: | :----------------------------------------------------------- |
+| The Angler      | V2???             | 🌟🌟🌟  | The bottom (crux, very thin edge for foot) is very polished. |
+| Amtrak          | Definitely NOT V2 | 🌟      |                                                              |
+| Feels Like Grit | V8                | 🌟🌟🌟  |                                                              |
+| Shit            | V4                | 🌟      |                                                              |
+| K-Town          | V4                | 🌟🌟🌟  |                                                              |
+| B-Town          | V3                | 🌟      |                                                              |
+| Downclimb       | V0                | 🌟      | I need a refresh on my V0 then                               |
+
+**K-Town: The Angler (V2???)**
+
+> _The Angler_, of course, is one of the classics of Joe's Valley. The scene of this big boulder sitting on the fast running water is just beautiful. On any source of guides it is marked as a V2. Unfortunately this has definitely raised because the beginning is very polished now. This beginning is also the crux of the route, you need to step on to a (polished) thin edge. Personally I start with a palm on a jug-gish sloper, step on the edge, step up with a little bit of swing, and catch the left hand slopey jug. The whole move requires quite a bit of contact strength and the catch is also a bit shouldery.
+> So yeah the tip for the day is to bring good edging shoe, try it before the skin is worn out. 
+> Honestly, though, if I cannot get past the launch it's a bit boring..
 
 ![K-Town: The Angler (V2)](assets/boulders--k-town-the-angler.jpg)
 
-| Problem         | Grade             | Classic | Notes                                                     |
-| :-------------- | :---------------: | :-----: | :-------------------------------------------------------- |
-| The Angler      | V2???             | 🌟🌟🌟  | The bottom (crux, very small footholes) is very polished. |
-| Amtrak          | Definitely NOT V2 | 🌟      |                                                           |
-| Feels Like Grit | V8                | 🌟🌟🌟  |                                                           |
-| Shit            | V4                | 🌟      |                                                           |
-| K-Town          | V4                | 🌟🌟🌟  |                                                           |
-| B-Town          | V3                | 🌟      |                                                           |
-| Downclimb       | V0                | 🌟      | I need a refresh on my V0 then                            |
+**K-Town: Shit (V4)**
+
+So on the right of the most well-known Angler, there are quite a few interesting slabs on this other side of the boulder. Starting from left to right are their names on the following chart.
+Looking up YouTube videos I feel there are quite some confusions regarding which one is which. I am also not 100% certain, so it is with the other climbers I met at the boulder (probably because the guidebook is so rare and out of date now). Anyway, I believe that _the one that starts with tiny crimps_ is _Shit (V4)_, because this area of the boulder is covered with a bunch of shit, like tiny granite-feel sharp dried-glue-like stuff. Some of the tiny crimps and edges are among those shit too. I also believe this is indeed a V4. It's quite hard even just to start, and reading the other _shit_ along the route it's just not easy. [Here](https://www.youtube.com/watch?v=jP_nf8m-tYs) is a video for it, and they think it's _K-Town_. (Another video even think this is _B-Town_ which is supposed to be even one more to the right.)
+
+**K-Town: K-Town (V4)**
+
+The one on the right of _Shit_ is supposed to be K-Town. 
+> Agreed to be the easiest problem in here, it is a slab problem with fairly generous holds. The beginning is a bit tricky, people do all kinds of different things. After reaching a pushed-in disk shaped thin edge, it may not seem obvious because the disk is quite thin but it does become easier. Just stand up on that thing and you're done.
+
+> If we talk about grades, and if the one on the left is a V4, then this one should be a V3.
+
+**K-Town: Downclimb (V0)**
+
+A lot of people (including me) need help on this downclimb. It refreshed my understanding of V0's lol. Anyway. 
+> It seems that the trick is just to make small descending foot movements on a few edges and slopers. The palmdown on the final sloper is kind of cool.
 
 **Kelly's Rock**
 
-This is a very special boulder near the river. It is huge and wide on the side facing the street. There are large sloperay holes on the boulder.
-
-> From this boulder I realized that by bouldering in indoor gyms I'm actually lacking the experience and comfort to top out a boulder. Even the movement is quite simple I feel chickened out before topping out and would decide to downclimb. This boulder has an array of problems from shorter to taller. The taller the problem is, the more scared I am to top out...
+This is a very special boulder near the river. It is huge and wide on the side facing the street side. There are large sloperay holes on the boulder.
 
 | Problem        | Grade | Classic | Notes                             |
 | :------------- | :---: | :-----: | :-------------------------------- |
@@ -91,10 +107,22 @@ This is a very special boulder near the river. It is huge and wide on the side f
 | Chi            | V3    | 🌟🌟🌟  |                                   |
 | To Infinity    | V1    | 🌟🌟🌟  | Tallest among all those problems. |
 | And Beyond     | V2    | 🌟🌟🌟  |                                   |
-| True Love      | V2    | 🌟🌟🌟  | Pinch pocket then go!!!           |
+| True Love      | V2    | 🌟🌟🌟  | Pinch then pocket                 |
 | Club Tan       | V2    | 🌟🌟🌟  |                                   |
 | Downclimb Left | V3    | 🌟🌟    |                                   |
 
+**Kelly's Rock: To Infinity (V1) And Beyond (v2)**
+
+![to infinity and beyond](assets/boulders--to-infinity-and-beyond.jpg)
+
+These ones are a couple! They are the left-most one among all those juggy region with big holes. It's quite straightforward but the top out is scary due to its height.
+
+> From this boulder I realized that by bouldering in indoor gyms I'm actually lacking the experience and comfort to top out a boulder. Even the movement is quite simple I feel chickened out before topping out and would decide to downclimb. This boulder has an array of problems from shorter to taller. The taller the problem is, the more scared I am to top out...
+
+**Kelly's Rock: And Beyond, True Love, Club Tan (V2-3's)**
+
+These three problems all are among those big holes area. But the routes and movements are quite different. Overall pretty interesting to climb.
+> My favorite is the rightmost one called _Downclimb Left_ (is that even a name?). You do a squat start, then traverse along the way, and finish on _Club Tan_.
 
 **Template**
 
@@ -471,6 +499,11 @@ Apparently they also have quite a few fans on their [Facebook Page](https://www.
 
 * [Essential Guide to Living](http://rvproj.com/2012/11/29/the-essential-guide-to-joes-valley-living/)
 * [Joe's Valley Bouldering](https://utah.com/joes-valley-bouldering-guide)
+
+## Videos
+
+* [Shit or K-Town Near The Angler](https://www.youtube.com/watch?v=jP_nf8m-tYs)
+* [Chad on Warm Me Up Scotty (V1)](https://www.youtube.com/watch?v=wadwAsRyhbw)
 
 ## Misc
 
