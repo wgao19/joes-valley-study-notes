@@ -62,15 +62,15 @@ Here's the screenshot for the left fork:
 This is perhaps the most classic, mostly visited, area of Joe's Valley. 
 List of problems at _K-Town_ for reference first:
 
-| Problem         | Grade             | Classic | Notes                                                        |
-| :-------------- | :---------------: | :-----: | :----------------------------------------------------------- |
-| The Angler      | V2???             | 🌟🌟🌟  | The bottom (crux, very thin edge for foot) is very polished. |
-| Amtrak          | Definitely NOT V2 | 🌟      |                                                              |
-| Feels Like Grit | V8                | 🌟🌟🌟  |                                                              |
-| Shit            | V4                | 🌟      |                                                              |
-| K-Town          | V4                | 🌟🌟🌟  |                                                              |
-| B-Town          | V3                | 🌟      |                                                              |
-| Downclimb       | V0                | 🌟      | I need a refresh on my V0 then                               |
+| Problem         | Grade             | Classic | Notes                                                                                                                                        |
+| :-------------- | :---------------: | :-----: | :------------------------------------------------------------------------------------------------------------------------------------------- |
+| The Angler      | V2???             | 🌟🌟🌟  | The bottom (crux, very thin edge for foot) is very polished. [Joe's Valley Classics > The Angler 2:16](https://youtu.be/bizRT8KdLzo?t=2m16s) |
+| Amtrak          | Definitely NOT V2 | 🌟      |                                                                                                                                              |
+| Feels Like Grit | V8                | 🌟🌟🌟  |                                                                                                                                              |
+| Shit            | V4                | 🌟      |                                                                                                                                              |
+| K-Town          | V4                | 🌟🌟🌟  |                                                                                                                                              |
+| B-Town          | V3                | 🌟      |                                                                                                                                              |
+| Downclimb       | V0                | 🌟      | I need a refresh on my V0 then                                                                                                               |
 
 **K-Town: The Angler (V2???)**
 
@@ -124,15 +124,45 @@ These ones are a couple! They are the left-most one among all those juggy region
 These three problems all are among those big holes area. But the routes and movements are quite different. Overall pretty interesting to climb.
 > My favorite is the rightmost one called _Downclimb Left_ (is that even a name?). You do a squat start, then traverse along the way, and finish on _Club Tan_.
 
-**Template**
+### Crack Area
 
-Describe the boulder here.
+Easily accessible across the street off the parking at 1.0 mile.
 
-List of Climbed Problems
+**Crack (V1)**
 
-| Problem | Grade | Classic | Notes |
-| :------ | :---: | :-----: | :---- |
+A pretty straightforward crack.
 
+![crack](assets/problems--crack.jpg);
+
+> Even though I did it, I probably would not do it again, nor would I suggest beginners to do it. Here's why:
+
+> For one, I saw a lizard before I climbed. If I saw it _during_ my climb I might fall unexpectedly. Though other boulders can have lizards as well, but the crack is a bit more scary because the lizard may come into sight from the inside of the crack, or perhaps you may even hit it with your hand without seeing it...
+> ![lizard at the crack](assets/problems--crack-lizard.png)
+
+> And two, the upper part of this boulder turns to a more obvious slab. But then there is a cutoff bolt on it.. This is tremendously scary if I fall on the slab.
+> ![bolt on the crack](assets/problems--crack-bolt.png)
+
+### Mine Cart Area
+
+1.7 miles in. 
+
+**Mine Cart**
+
+The boulder _Mine Cart_ is located right next to parking. It is a beautiful boulder with a wave like top.
+
+![mine cart](assets/boulders--mine-cart.jpg)
+
+> Yeah as you see, long pads don't fit here. Bring a smaller pad.
+
+**Mine Cart: The Wave (V3)**
+
+> To me this is a fair V3. There are pinches and pockets, a big ball generous enough for swapping feet, palm down, etc. I would expect all kinds of different betas here. I mean, even myself did it quite differently. Though eventually what worked most efficiently for me was to grab the pinch and pocket respectively to each hand, then sort of like a sidepull-aided pistol squat on the ball, then put right foot on a comfortable hold of my choice, move right hand up, then up again to the right of the ceiling (wave), and swing to catch the ledge on the ceiling left. After this point it turned into streneous instead of techy.. As the overhang comes in.
+
+> Only some thoughts on the side: This is a beautiful boulder and fun problem to work on. Though I wonder if anybody tries to replicate that in the gym would it be as nice? You lose the aesthetic part of the boulder by default. And then the pockets, the pinches, the balls and the ledges feel a bit random. Their appearance don't match..
+
+
+<!-- | Problem | Grade | Classic | Notes | -->
+<!-- | :------ | :---: | :-----: | :---- | -->
 
 
 ## Right Fork
@@ -141,6 +171,42 @@ Again [this corporate map](https://www.google.com/maps/d/u/0/edit?mid=16hbyMTTFu
 Here's the screenshot for the right fork:
 
 ![right fork map](assets/map--right-fork.png)
+
+### UMWA
+
+Located right off the road this one is perhaps one of the most easily accessible boulders.
+
+![umwa](assets/boulders--umwa.jpg)
+
+### Mansize
+
+**Triangle**
+
+There is a very aesthetic boulder at the Mansize area called the _triangle_ boulder. You know how it's shaped. As a passionate _boulderer for instagram_ this one is kind of a must visit for me.
+There is an approximate 15 minutes hike to this boulder. The trail is quite obvious. There are four boulders altogether in this region.
+
+![triangle](assets/boulders--triangle.jpg)
+
+| Problem    | Grade | Classic | Notes |
+| :--------- | :---: | :-----: | :---- |
+| Obscelete  | V2    | 🌟🌟🌟  |       |
+| Obtuse     | V3    | 🌟🌟🌟  |       |
+| Iscosceles | V4    | 🌟🌟🌟  |       |
+| Regular    | V2    | 🌟🌟    |       |
+| Square     | V2    | 🌟🌟    |       |
+
+**Triangle: Obscelete**
+
+> This one is actually a bit overhang, making it more streneous than it looks. Good footwork makes a huge difference. On this route there are many choice of good footholes. I think a good advice is to remember what works for you the best to save some attempt. Some of the pinches and the crimps on this route were quite harsh and they ate my skin.
+
+![obscelete overhang](assets/boulders--triangle-overhang.jpg)
+
+
+> I didn't send this boulder and this is how far I got. It reads to me that the next move is to bump my left hand higher and then catch the pocket with my right hand. But yeah the overhang was changing my inner voice from "Let's do it, girl!!!" to "Lets do it next time..." every single time after I hopped on to the wall. And then the height and the fact of me soloing is changing that again to "It's OK not to send, safety first..."
+
+![obscelete](assets/problems--obscelete.jpg)
+
+> Anyway, this one is definitely a classic. Especially for people like me who are [bouldering for instagram](https://www.instagram.com/explore/tags/bouldering). Personally I like this one better than The Angler. It doesn't shut me down at the beginning. I tried many different things all the way up till quite far.
 
 ## New Joe's
 
@@ -398,51 +464,25 @@ How does _Better Than Coffee_ get its name? There's also a _Better Than Starbuck
 
 _Aug 10 2018_
 
-Two things TIL's:
-
 - **The bouldering guidebook is rare.** It's out of print and a used copy is selling at $280 on amazon. The REI near the Front SLC is _said to_ help print a photocopy of a Utah bouldering guidebook (they call it "the black bible) for $20. So I was really lucky of me to have obtained one from my friend! After checking with my airbnb is the similar result. They also told me that **the newest guidebook will come out later this year or next.** People here get some printed version from a (should use _the_ instead?) coffee shop.
 
 - **Bouldering at night is a thing** because it is too hot during the day. It is suggested to go out early mornings or climb at night using a spotlight. So my jetlag is gonna help isn't it?
 
-- **Topping out is a thing** It wasn't until I am faced by real boulders that I realized how hard it seemed to me to top out a boulder. Regardless what the guidebook says, easy mantle, techy mantle, etc, they all are _scary_ mantles to me. And how scary it is depends on how high it is and whether or not a crashpad is in sight. Of course the latter is nullified when the former passes certain threshold. Really need to get myself ready for and used to topping out before bouldering outdoors.
+## Day 1 :: 
 
-# Section Work in Progress
+_Aug 11 2018_
 
-* Slab: Stab Slab (V1)
+- **The Right Fork was closed** so I first went to New Joe's. The boulders are so difficult to find here. I wandered here for perhaps 2 hours of fruitless hunt. Nearly gave up on bouldering at all on that day.
 
-* Gunshot
+- **It might not be hot as it is thought**. The Angler and Kelly's Arete are both in the shades in the late afternoon. And the river is so incredibly chill that some people dip their water bottles in the water that works quite well as a fridge.
 
-  * Faceshot (V1)
-  * Headshot (V3)
-  * Gunshot (V3)
+## Day 2 
 
-* Footmare
+_Aug 12 2018_
 
-  * Nightmare (V0)
-  * Elm Street (v1)
-  * Freddy (V2)
+- **Should tape up the fingers doing dynamic moves to save some fingertips**. Also contact strength matters a lot :( I think I missed the Angler exactly for this reason.
 
-* Boysize
-
-a bunch of V0’s
-
-* Triangle
-
-a bunch of V2’s
-
-## Classic Boulders of Joe's
-
-Stumble Bum (V2)
-
-### The Angler (V2)
-
-Area: K-Town
-
-> Aesthetic, easy, tricky start, classic, beginning crux.
-
-Videos
-
-* [Joe's Valley Classics > 2:16](https://youtu.be/bizRT8KdLzo?t=2m16s)
+- I was not exactly legal when I climbed the right fork. It was still closed but I sneaked in. Being the only boulderer in the mountain is a bit scary. It even reduces my focus. To maximize performance it really matters a lot to climb with a familiar group at familar environment.
 
 # Crashpad Rental
 
@@ -455,6 +495,8 @@ Cheapest of all I found, they have crashpad for $10 for a weekend (3 nights). Wh
 * [Mountainworks](https://www.facebook.com/Mountainworks-89123578696/) in Provo, UT. Though on the way to Orangeville.
 
 * [My Airbnb Host](https://www.airbnb.com.sg/users/show/77031235) has a few different crashpads and they range from 5$ to 8$ a day.
+
+* [Cup of Joe’s](https://goo.gl/maps/qMiyWe8qwW92) has a couple of organic crashpads said to cost $10 each.
 
 Also according to her:
 
@@ -474,9 +516,19 @@ Apparently they also have quite a few fans on their [Facebook Page](https://www.
 
 ![Warm Up Boulder Coffee Beans](https://lh5.googleusercontent.com/p/AF1QipNz1rWah4aPbTE1k2WVdPcTBtcPFQyxrhhc2rbO=w203-h162-k-no)
 
+> It seems that this is _the_ place for coffee in town. Local people bring in their own mugs for coffee that charges by oz. I followed that too, getting a big batch of iced coffee for ~$2 feels so nice.
+
+> They have the guidebook photocopied for your reference. It's a good place to check out the areas that you plan on going and take pictures of those pages with your cellphone.
+
 ## Food
 
 * [Palenque Gourmet Mexican Grill](https://goo.gl/maps/fD8YwAymXjC2)
+  > A 15-minute-drive brings you here. Opens till 10pm except for Sundays, till 3pm. My burrito was so big that it can sit on itself.
+  > ![palenque burrito](assets/food--palenque.jpg)
+* [Food Ranch](https://goo.gl/maps/c1LyuVMgcwN2) 
+  > I hear they have good pizzas, good bakery, etc. I didn't try those but my breakfast there was also quite good and the portion is large. It may not look as good but the ham is delicious.
+  > ![food ranch breakfast](assets/food--food-ranch-breakfast.jpg)
+* [Stewart's Market](https://goo.gl/maps/oz5k1gqkmfM2) Personally I like this the most for their ready meals are more healthy. I also love the huge dairy product sections. They don't open on Sundays.
 
 # References
 
