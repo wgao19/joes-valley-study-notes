@@ -55,7 +55,7 @@ Here's the screenshot for the left fork:
 
 ![left fork map](assets/map--left-fork.png)
 
-### Riverside Boulders
+**Riverside Boulders**
 
 **K-Town**
 
@@ -124,7 +124,7 @@ These ones are a couple! They are the left-most one among all those juggy region
 These three problems all are among those big holes area. But the routes and movements are quite different. Overall pretty interesting to climb.
 > My favorite is the rightmost one called _Downclimb Left_ (is that even a name?). You do a squat start, then traverse along the way, and finish on _Club Tan_.
 
-### Crack Area
+**Crack Area**
 
 Easily accessible across the street off the parking at 1.0 mile.
 
@@ -132,7 +132,7 @@ Easily accessible across the street off the parking at 1.0 mile.
 
 A pretty straightforward crack.
 
-![crack](assets/problems--crack.jpg);
+![crack](assets/problems--crack.jpg)
 
 > Even though I did it, I probably would not do it again, nor would I suggest beginners to do it. Here's why:
 
@@ -142,7 +142,7 @@ A pretty straightforward crack.
 > And two, the upper part of this boulder turns to a more obvious slab. But then there is a cutoff bolt on it.. This is tremendously scary if I fall on the slab.
 > ![bolt on the crack](assets/problems--crack-bolt.png)
 
-### Mine Cart Area
+**Mine Cart Area**
 
 1.7 miles in. 
 
@@ -172,15 +172,15 @@ Here's the screenshot for the right fork:
 
 ![right fork map](assets/map--right-fork.png)
 
-### UMWA
+**UMWA**
 
 Located right off the road this one is perhaps one of the most easily accessible boulders.
 
 ![umwa](assets/boulders--umwa.jpg)
 
-### Mansize
+**Mansize**
 
-**Triangle**
+**Mansize: Triangle**
 
 There is a very aesthetic boulder at the Mansize area called the _triangle_ boulder. You know how it's shaped. As a passionate _boulderer for instagram_ this one is kind of a must visit for me.
 There is an approximate 15 minutes hike to this boulder. The trail is quite obvious. There are four boulders altogether in this region.
@@ -460,7 +460,7 @@ How does _Better Than Coffee_ get its name? There's also a _Better Than Starbuck
 
 # Notes by Day
 
-## Day 0 :: Arrival
+## Day 0
 
 _Aug 10 2018_
 
@@ -468,7 +468,7 @@ _Aug 10 2018_
 
 - **Bouldering at night is a thing** because it is too hot during the day. It is suggested to go out early mornings or climb at night using a spotlight. So my jetlag is gonna help isn't it?
 
-## Day 1 :: 
+## Day 1 
 
 _Aug 11 2018_
 
