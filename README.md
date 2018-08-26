@@ -556,6 +556,7 @@ Apparently they also have quite a few fans on their [Facebook Page](https://www.
 
 * [Shit or K-Town Near The Angler](https://www.youtube.com/watch?v=jP_nf8m-tYs)
 * [Chad on Warm Me Up Scotty (V1)](https://www.youtube.com/watch?v=wadwAsRyhbw)
+* [Lizzy Ellison's Channel](https://www.youtube.com/channel/UC7LQjuYnVio8yfwqg6Rl7Wg) has a lot of Joe's Valley videos
 
 ## Misc
 
