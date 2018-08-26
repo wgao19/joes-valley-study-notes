@@ -6,15 +6,16 @@ As a climber I am doing 6b's on lead, and V3/4's on bouldering. With a recent fo
 
 > I will mark most of my subjective thoughts like this.
 
-# Joe’s Valley
+While these notes are intended for personal use, they might be helpful for a handful of people who share similar traits with me:
 
-Long story short this is how I decided on and started the study of this trip.
+* A new outdoor boulderer
+* Likes to do things by yourself
+* Likes to explore new possibilities
+* Passionately climbing aesthetic boulders (a.k.a. bouldering for Instagram)
 
-![it all starts with...](assets/story-image--1.jpg)
+## On First Time Outdoor Bouldering
 
-I did not include the source of friends / gyms I got help from in this writeup for I am personally quite private and I extend the assumption here. If anyone I mention here would prefer a reference, please let me know and I am more than happy to add you to the list :) :)
-
-## Words of Advice from Senpais
+_Words of Advice from Senpais_
 
 I talked to a few people regarding how to boulder outdoors and here are some valuable tips that I learned:
 
@@ -29,13 +30,28 @@ I talked to a few people regarding how to boulder outdoors and here are some val
 * I would probably not begin with somewhere like bishop, where the boulders are really high, even if it is very well-known.
   > OK, fair enough. I was hella scared the first time I did outdoor sport climb as well. I definitely would not go somewhere that high.
 
-## Silly Questions of Mine
+## On Finding Your Way to the Boulders
 
-* Should I look for a way down first before climbing up every boulder?
+One thing I both suffered a lot and gained quite some experience throughout this trip is to find the boulders. Here's some tips:
 
-  > My later self: Yes you should!!! Climb the downclimbs for each boulder before climbing the difficult ones!!! And put a crashpad beneath it!!! If there's a tree, use it!!!
-
-* How tall is Isaac Caldiero (author of the guidebook)?
+* Resources on the Internet
+  > Depending on how mature a climbing area is the resources might be abundant or scarce. But overall my experience is this sport heavily relies on a variety of resources. There is no guarantee that certain source always contains more information than others. A comprehensive search is called for.
+  > For North America I find these sites to be more contentful:
+  >
+  > * [Mountain Project](https://www.mountainproject.com/)
+  > * [Dr.Topo](http://www.drtopo.com/)
+* Join a group of local climbers
+  > This is perhaps the most efficient way of finding your way to your boulders. Guidebooks can be missing, outdated, and/or hard to read. Even clearly written guides take quite a bit of effort to match to the real world.
+* Ask local gyms and businesses
+  > Visit a local gear store before heading to the crags. Sometimes you may want to pick up some gears or crashpad rentals. A lot of such businesses I visited even keep a copy of guidebooks that you may browse through. Just as an example of what may be on the list, some helpful source of information I encountered for this trip includes:
+  >
+  > * A local coffee shop - it photocopied an out-of-print guidebook
+  > * A mountaineering gear and crashpad rental shop - also has a photocopied version of an out-of-print guidebook
+  > * A UPS store nearby actually prints that out-of-print guidebook for you for a small fee
+  > * Several climbing gyms
+  > * My airbnb host (they run a homestay-style airbnb for climbers and rents crashpads and flashlight)
+* Search on Instagram
+  > A lot of people who post on Instagram might include a location for the post. You can click on it to see its specific location, it is often quite accurate. You might even find more pictures and videos of more boulders at the same location.
 
 # Bouldering at Joe's By Region
 
@@ -323,10 +339,11 @@ I love coffee. Coffee is my water. I dig the cities out for coffee places. And g
 
 ## Website Guides
 
-* [theCrag — Joe’s Valley](https://www.thecrag.com/climbing/united-states/joes-valley)
-* [WikiBoulder — Joe’s Valley](http://wikiboulder.com/guides/guide/Utah/Joes_Valley)
+* [Mountain Projects -- Joe's Valley](https://www.mountainproject.com/area/105880382/joes-valley)
+* [theCrag -- Joe’s Valley](https://www.thecrag.com/climbing/united-states/joes-valley)
+* [WikiBoulder -- Joe’s Valley](http://wikiboulder.com/guides/guide/Utah/Joes_Valley)
 * [Joe’s Valley Festival](https://www.facebook.com/joesvalleybouldering/)
-* [drtopo - Joe’s Valley](http://www.drtopo.com/north-america/united-states/utah/joe-s-valley)
+* [drtopo -- Joe’s Valley](http://www.drtopo.com/north-america/united-states/utah/joe-s-valley)
 
 ## Instagram, People and Hashtags
 
