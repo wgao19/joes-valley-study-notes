@@ -215,7 +215,9 @@ Here's the screenshot for New Joe's:
 
 ![new joe's map](assets/map--new-joes.png)
 
-**Midnight Madness**
+I removed the content of New Joe's section because it is a bit hard for me to find the boulders. Not much insight I could provide on that except for advicing beginners to boulder there with someone who is familiar with the area.
+
+<!--**Midnight Madness**
 
 Very overhanging boulder, the landing does not look very nice.
 
@@ -453,36 +455,85 @@ List of Climbed Problems
 This is the region on the Right Fork closest to the parking spot. Some classic easy problems such as _Better Than Coffee_, _Standard Overhang_, and _Todd's Easy Arete_, etc, are there.
 
 How does _Better Than Coffee_ get its name? There's also a _Better Than Starbucks_ near it. I'm assuming it's saying it wakes you up better than coffee? There is a YouTube video for it [here](https://www.youtube.com/watch?v=FeYBE6N5GEs), looks fun. Though the two guides disagree on its difficulty. Most say it's a V4 but drtopo says it's a V1. Only one way to know~
+-->
 
-**Videos**
+# Stories by Day
 
-* [Joe's Valley - Better Than Coffee](https://www.youtube.com/watch?v=FeYBE6N5GEs)
-
-# Notes by Day
+I go into a lot of technical details when I prepare for a trip. But all trips turned out better for their humane parts. In this section I am going to write about the people I met, my feelings and reflections, likely emotional stuff. If you don't like them you may skip the whole section without missing anything contentful.
 
 ## Day 0
 
 _Aug 10 2018_
 
-- **The bouldering guidebook is rare.** It's out of print and a used copy is selling at $280 on amazon. The REI near the Front SLC is _said to_ help print a photocopy of a Utah bouldering guidebook (they call it "the black bible) for $20. So I was really lucky of me to have obtained one from my friend! After checking with my airbnb is the similar result. They also told me that **the newest guidebook will come out later this year or next.** People here get some printed version from a (should use _the_ instead?) coffee shop.
+I landed at 14:15 after a long haul flight from Sydney, Los Angeles, then Salt Lake City. The original plan was to stay at SLC, hit the bouldering gym, make friends and see if I will join any group for some climbing. That didn't happen, however, because my first airbnb host had some family matter and had to cancel. (Not so) surprisingly, I was not upset at all and it did not take me too much effort to modify my itinerary that facilitated a trip to Joe's Valley. Don't tell my parents my plan then was to drive 3 hours after 30+ hours of long haul flight. The drive extended to a near 5 hours because of an accident happened on US-6.
 
-- **Bouldering at night is a thing** because it is too hot during the day. It is suggested to go out early mornings or climb at night using a spotlight. So my jetlag is gonna help isn't it?
+It was nearly 10pm when I arrived at [Nicole and Mike](https://www.instagram.com/steiff.life/)'s house, my airbnb stay. They had a friend joining us for the weekend. Also a climber from SLC. By the time I arrived, Mike was playing some beautiful tune on a guitar. Nicole showed me around the house. It's a sweet old style US house. Everything is in a quite original style. The wood, the metals on the doorknobs, the lamps. There are several rooms plus a loft on top of the living room. Even nice for a group.
+
+I hid myself in the room, then in the bed, soon after arrival. It had been quite some 30+ hours for me. I lost track of the clear boundaries of days. Time to crash!!
 
 ## Day 1 
 
 _Aug 11 2018_
 
-- **The Right Fork was closed** so I first went to New Joe's. The boulders are so difficult to find here. I wandered here for perhaps 2 hours of fruitless hunt. Nearly gave up on bouldering at all on that day.
+I woke up pretty early this morning. No one else was up. It's Saturday morning with some sunshine, quiet guitars.
 
-- **It might not be hot as it is thought**. The Angler and Kelly's Arete are both in the shades in the late afternoon. And the river is so incredibly chill that some people dip their water bottles in the water that works quite well as a fridge.
+![hygge house guitar](assets/story--hygge-house-guitar.jpg)
+
+They have a little farm at the back of the house. They have goats, hems, bunnies, and vegetables. Around the time I was there, their goats just gave birth to a few baby goats 3~4 days ago. The baby goats are so cute they don't even balance very well. But they still tried to run very fast. Amazing.
+
+![baby goat](assets/story--baby-goat.jpg)
+
+The plan for today was to go to Cup of Joe's together. Nicole and Mike have a tradition of going there on a Saturday morning. We would also go there together to check out their guidebook. They would try to help me find some problems I might like.
+
+Apparently Cup of Joe's is _the_ place to go for coffee in town. They serve the climbers very well. They have guidebooks for hiking trails. The bouldering guidebook they have is a photocopy, you need to ask them to use it. But they'd love to help you with that. They have a roast called `Warm Up Boulder`. The owner treated us each with a peach. It was funny how both Nikki and Mike already bite into it before the owner asked 'Would you like me to wash them?' 😂 It was also my first time to bite into a peach with the fur (is it called the fur? It feels like a fur lol).
+
+On their pin map I looked directly to Singapore. There were 3 pins there already. I wonder if they were from the guy who lended me the guidebook. Add myself to that map!
+
+![map](assets/story--map.jpg)
+
+Mike and Nicole discussed a bit with me regarding what problems I would do. As a fairly new climber I don't know my style yet. I may be better at slopers and slabs. I'm pretty good at arranging body position, quite balanced and flexible. It turns out that the Right Fork seems to contain the most number of easier problems. So I planned on going there first. Nicole asked me whether I was planning on doing anything at New Joe's at all. That sounded like a very subtle nay. 
+
+**The Right Fork Was Closed** due to recuperation after the forest fire happened recently. OK, in Chinese this is called 出师不利. Somehow I thought the Left Fork was closed at all so I was left with no option but the New Joe's. I drove there and started by 3-hour fruitless boulder hunting. First was the parking spot. The guidebook and drtopo's guide have two different spots for parking. I didn't find the spot described by the guidebook at all. After a few mistakes I found the oil drill described by drtopo's guide. Then I found no obvious trail that could ever lead me to a correct boulder. There was no trail, just land. It was very easy to get lost. I even became scared. Sometimes I saw some potentially large rock that I might want to go check out, I put down the crashpad at somewhere obvious and walked over. It was quite inconvenient to walk with the crashpad because it ran into the pines. In a short while I started to worry that I indeed had a fairly significant probability of getting lost. The whole process felt like playing a game that was too hard even to find your quest object. Ant it left a scary impression.
+
+![not much at new joe's](assets/story--new-joes-nothing.jpg)
+
+> I was sure to be at the wrong place. The whole New Joe's looked like having nothing to me :(
+
+**Left Fork First Impression**
+I decided to drive back to the Right Fork and talk to the road guard, see if he would let me in. It was then that I realized that the Left Fork was actually not closed. Having the thought that The Angler _was_ a V2, and that there is Kelly's Arete nearby that has quite a few easy boulders, I drove to the roadside boulders.
+
+To my surprise it was not hot at all at the Riverside Boulders. 
+I arrived at around 3pm in the afternoon, and The Angler was already in the shade. 
+Its "angler" was, understandably, heavily chalked up. 
+I threw in a few attempts, as a first day the beginning was not particularly hard for me. 
+I had a fair chance to stick the move. 
+Bearing in mind that this is a pretty tall boulder, and that it's my first outdoor bouldering session, I decided to look for the downclimb first.
+
+The downclimb of K-Town was at the other end of the boulder.
+It was marked as V0 on the guidebook.
+I climbed up, then down.
+Unlike those V0's you do in a gym, it was not completely trivial!
+I was confident enough to climb up.
+But that confidence was compromised by my difidence in climbing down.
+First day, chill, girl.
+You can be as newb as you can ever be. After all it's a first day..
+So I dragged my crashpads to Kelly's Arete.
+
+My thoughts about the climbs on Kelly's Arete were already covered by the previous section.
+Here I should write about this very personal thing: I realized I could not top out! Whether or not the guidebook says "easy mantle", "techny mantle", just by looking down near the top of the boulder makes me decide to climb down.. I got stuck. I tried nearly all those boulders on the longer side of Kelly's. Most of them I got fairly good progress. Yet none of them I could top out.
 
 ## Day 2 
 
 _Aug 12 2018_
 
-- **Should tape up the fingers doing dynamic moves to save some fingertips**. Also contact strength matters a lot :( I think I missed the Angler exactly for this reason.
+# Some More Notes
 
-- I was not exactly legal when I climbed the right fork. It was still closed but I sneaked in. Being the only boulderer in the mountain is a bit scary. It even reduces my focus. To maximize performance it really matters a lot to climb with a familiar group at familar environment.
+- **The bouldering guidebook is rare.** It's out of print and a used copy is selling at $280 on amazon. The REI near the Front SLC is _said to_ help print a photocopy of a Utah bouldering guidebook (they call it "the black bible) for $20. So I was really lucky of me to have obtained one from my friend! After checking with my airbnb is the similar result. They also told me that **the newest guidebook will come out later this year or next.** People here get some printed version from a (should use _the_ instead?) coffee shop.
+
+- **Bouldering at night is a thing** because it is too hot during the day. It is suggested to go out early mornings or climb at night using a spotlight. So my jetlag is gonna help isn't it?
+
+- **It might not be hot as it is thought**. The Angler and Kelly's Arete are both in the shades in the late afternoon. And the river is so incredibly chill that some people dip their water bottles in the water that works quite well as a fridge.
+
 
 # Crashpad Rental
 
@@ -543,8 +594,9 @@ Apparently they also have quite a few fans on their [Facebook Page](https://www.
 * [Joe’s Valley Festival](https://www.facebook.com/joesvalleybouldering/)
 * [drtopo - Joe’s Valley](http://www.drtopo.com/north-america/united-states/utah/joe-s-valley)
 
-## Instagram
+## Instagram, People and Hashtags
 
+* [The Steiff Family](https://www.instagram.com/steiff.life/)
 * [#joesvalley](https://www.instagram.com/explore/tags/joesvalley/)
 
 ## Articles
@@ -557,6 +609,7 @@ Apparently they also have quite a few fans on their [Facebook Page](https://www.
 * [Shit or K-Town Near The Angler](https://www.youtube.com/watch?v=jP_nf8m-tYs)
 * [Chad on Warm Me Up Scotty (V1)](https://www.youtube.com/watch?v=wadwAsRyhbw)
 * [Lizzy Ellison's Channel](https://www.youtube.com/channel/UC7LQjuYnVio8yfwqg6Rl7Wg) has a lot of Joe's Valley videos
+* [Joe's Valley - Better Than Coffee](https://www.youtube.com/watch?v=FeYBE6N5GEs)
 
 ## Misc
 
