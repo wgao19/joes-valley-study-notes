@@ -1,38 +1,41 @@
-# Joe’s Valley
-
-This is a personalized study notes of _Joe's Valley_. I am a software engineer visiting SLC for React Rally this August. Off the time of my coding I am also a climber. Long story short this is how I decided on and started the study of this trip.
-
-![it all starts with...](assets/story-image--1.jpg)
-
-I wish this set of notes will help myself throughout this trip and hopefully more people like me in the future.
-
-I did not include the source of friends / gyms I got help from in this writeup for I am personally quite private and I extend the assumption here. If anyone I mention here would prefer a reference, please let me know and I am more than happy to add you to the list :) :)
-
 # To Begin With...
+
+Hi! I am a software engineer. Off the time of my coding I am also a climber. I created this repo along side my research on Joe's Valley for my trip to Salt Lake City in Aug 2018.
 
 As a climber I am doing 6b's on lead, and V3/4's on bouldering. With a recent focus on bouldering, Joe's Valley is such an interesting spot to experience. I have no prior experience for outdoor bouldering so this study notes will come from that perspective -- basics, safety, trip preparation, etc.
 
 > I will mark most of my subjective thoughts like this.
 
+# Joe’s Valley
+
+Long story short this is how I decided on and started the study of this trip.
+
+![it all starts with...](assets/story-image--1.jpg)
+
+I did not include the source of friends / gyms I got help from in this writeup for I am personally quite private and I extend the assumption here. If anyone I mention here would prefer a reference, please let me know and I am more than happy to add you to the list :) :)
+
 ## Words of Advice from Senpais
 
 I talked to a few people regarding how to boulder outdoors and here are some valuable tips that I learned:
 
-- Spotters are important. Climb with good partners who care about what you are doing.
+* Spotters are important. Climb with good partners who care about what you are doing.
+
   > I definitely agree with this throughout my other climbing. But due to the nature of this trip, I'll make friends along my way.
 
-- Find the easiest boulders with good landing to begin with.
+* Find the easiest boulders with good landing to begin with.
+
   > This motivates one of the following sections. I put an effort in trying to find those easy problems with good landing.
 
-- I would probably not begin with somewhere like bishop, where the boulders are really high, even if it is very well-known.
+* I would probably not begin with somewhere like bishop, where the boulders are really high, even if it is very well-known.
   > OK, fair enough. I was hella scared the first time I did outdoor sport climb as well. I definitely would not go somewhere that high.
 
 ## Silly Questions of Mine
 
-- Should I look for a way down first before climbing up every boulder?
+* Should I look for a way down first before climbing up every boulder?
+
   > My later self: Yes you should!!! Climb the downclimbs for each boulder before climbing the difficult ones!!! And put a crashpad beneath it!!! If there's a tree, use it!!!
 
-- How tall is Isaac Caldiero (author of the guidebook)?
+* How tall is Isaac Caldiero (author of the guidebook)?
 
 # Bouldering at Joe's By Region
 
@@ -50,7 +53,7 @@ I am going there at a fairly hot season (mid of August). So I also try to figure
 
 ## Left Fork
 
-I found [this corporate map](https://www.google.com/maps/d/u/0/edit?mid=16hbyMTTFuIlw7e6DllSHZ2Z95edmI8y-&ll=39.30773061616799%2C-111.11517843301266&z=17) very helpful to have marked _to the details to boulders_ of Joe's. And it's very updated. 
+I found [this corporate map](https://www.google.com/maps/d/u/0/edit?mid=16hbyMTTFuIlw7e6DllSHZ2Z95edmI8y-&ll=39.30773061616799%2C-111.11517843301266&z=17) very helpful to have marked _to the details to boulders_ of Joe's. And it's very updated.
 Here's the screenshot for the left fork:
 
 ![left fork map](assets/map--left-fork.png)
@@ -59,12 +62,12 @@ Here's the screenshot for the left fork:
 
 **K-Town**
 
-This is perhaps the most classic, mostly visited, area of Joe's Valley. 
+This is perhaps the most classic, mostly visited, area of Joe's Valley.
 
 **K-Town: The Angler (V2???)**
 
 > _The Angler_, of course, is one of the classics of Joe's Valley. The scene of this big boulder sitting on the fast running water is just beautiful. On any source of guides it is marked as a V2. Unfortunately this has definitely raised because the beginning is very polished now. This beginning is also the crux of the route, you need to step on to a (polished) thin edge. Personally I start with a palm on a jug-gish sloper, step on the edge, step up with a little bit of swing, and catch the left hand slopey jug. The whole move requires quite a bit of contact strength and the catch is also a bit shouldery.
-> So yeah the tip for the day is to bring good edging shoe, try it before the skin is worn out. 
+> So yeah the tip for the day is to bring good edging shoe, try it before the skin is worn out.
 > Honestly, though, if I cannot get past the launch it's a bit boring..
 
 ![K-Town: The Angler (V2)](assets/boulders--k-town-the-angler.jpg)
@@ -76,14 +79,16 @@ Looking up YouTube videos I feel there are quite some confusions regarding which
 
 **K-Town: K-Town (V4)**
 
-The one on the right of _Shit_ is supposed to be K-Town. 
+The one on the right of _Shit_ is supposed to be K-Town.
+
 > Agreed to be the easiest problem in here, it is a slab problem with fairly generous holds. The beginning is a bit tricky, people do all kinds of different things. After reaching a pushed-in disk shaped thin edge, it may not seem obvious because the disk is quite thin but it does become easier. Just stand up on that thing and you're done.
 
 > If we talk about grades, and if the one on the left is a V4, then this one should be a V3.
 
 **K-Town: Downclimb (V0)**
 
-A lot of people (including me) need help on this downclimb. It refreshed my understanding of V0's lol. Anyway. 
+A lot of people (including me) need help on this downclimb. It refreshed my understanding of V0's lol. Anyway.
+
 > It seems that the trick is just to make small descending foot movements on a few edges and slopers. The palmdown on the final sloper is kind of cool.
 
 **Kelly's Rock**
@@ -101,6 +106,7 @@ These ones are a couple! They are the left-most one among all those juggy region
 **Kelly's Rock: And Beyond, True Love, Club Tan (V2-3's)**
 
 These three problems all are among those big holes area. But the routes and movements are quite different. Overall pretty interesting to climb.
+
 > My favorite is the rightmost one called _Downclimb Left_ (is that even a name?). You do a squat start, then traverse along the way, and finish on _Club Tan_.
 
 **Crack Area**
@@ -123,7 +129,7 @@ A pretty straightforward crack.
 
 **Mine Cart Area**
 
-1.7 miles in. 
+1.7 miles in.
 
 **Mine Cart**
 
@@ -139,14 +145,13 @@ The boulder _Mine Cart_ is located right next to parking. It is a beautiful boul
 
 > Only some thoughts on the side: This is a beautiful boulder and fun problem to work on. Though I wonder if anybody tries to replicate that in the gym would it be as nice? You lose the aesthetic part of the boulder by default. And then the pockets, the pinches, the balls and the ledges feel a bit random. Their appearance don't match..
 
-
 <!-- | Problem | Grade | Classic | Notes | -->
-<!-- | :------ | :---: | :-----: | :---- | -->
 
+<!-- | :------ | :---: | :-----: | :---- | -->
 
 ## Right Fork
 
-Again [this corporate map](https://www.google.com/maps/d/u/0/edit?mid=16hbyMTTFuIlw7e6DllSHZ2Z95edmI8y-&ll=39.30773061616799%2C-111.11517843301266&z=17) has some very detailed boulder locations. 
+Again [this corporate map](https://www.google.com/maps/d/u/0/edit?mid=16hbyMTTFuIlw7e6DllSHZ2Z95edmI8y-&ll=39.30773061616799%2C-111.11517843301266&z=17) has some very detailed boulder locations.
 Here's the screenshot for the right fork:
 
 ![right fork map](assets/map--right-fork.png)
@@ -172,7 +177,6 @@ There is an approximate 15 minutes hike to this boulder. The trail is quite obvi
 
 ![obscelete overhang](assets/boulders--triangle-overhang.jpg)
 
-
 > I didn't send this boulder and this is how far I got. It reads to me that the next move is to bump my left hand higher and then catch the pocket with my right hand. But yeah the overhang was changing my inner voice from "Let's do it, girl!!!" to "Lets do it next time..." every single time after I hopped on to the wall. And then the height and the fact of me soloing is changing that again to "It's OK not to send, safety first..."
 
 ![obscelete](assets/problems--obscelete.jpg)
@@ -181,7 +185,7 @@ There is an approximate 15 minutes hike to this boulder. The trail is quite obvi
 
 ## New Joe's
 
-Aand again [this corporate map](https://www.google.com/maps/d/u/0/edit?mid=16hbyMTTFuIlw7e6DllSHZ2Z95edmI8y-&ll=39.30773061616799%2C-111.11517843301266&z=17) has some very detailed boulder locations. 
+Aand again [this corporate map](https://www.google.com/maps/d/u/0/edit?mid=16hbyMTTFuIlw7e6DllSHZ2Z95edmI8y-&ll=39.30773061616799%2C-111.11517843301266&z=17) has some very detailed boulder locations.
 Here's the screenshot for New Joe's:
 
 ![new joe's map](assets/map--new-joes.png)
@@ -202,7 +206,7 @@ It was nearly 10pm when I arrived at [Nicole and Mike](https://www.instagram.com
 
 I hid myself in the room, then in the bed, soon after arrival. It had been quite some 30+ hours for me. I lost track of the clear boundaries of days. Time to crash!!
 
-## Day 1 
+## Day 1
 
 _Aug 11 2018_
 
@@ -222,7 +226,7 @@ On their pin map I looked directly to Singapore. There were 3 pins there already
 
 ![map](assets/story--map.jpg)
 
-Mike and Nicole discussed a bit with me regarding what problems I would do. As a fairly new climber I don't know my style yet. I may be better at slopers and slabs. I'm pretty good at arranging body position, quite balanced and flexible. It turns out that the Right Fork seems to contain the most number of easier problems. So I planned on going there first. Nicole asked me whether I was planning on doing anything at New Joe's at all. That sounded like a very subtle nay. 
+Mike and Nicole discussed a bit with me regarding what problems I would do. As a fairly new climber I don't know my style yet. I may be better at slopers and slabs. I'm pretty good at arranging body position, quite balanced and flexible. It turns out that the Right Fork seems to contain the most number of easier problems. So I planned on going there first. Nicole asked me whether I was planning on doing anything at New Joe's at all. That sounded like a very subtle nay.
 
 **The Right Fork Was Closed** due to recuperation after the forest fire happened recently. OK, in Chinese this is called 出师不利. Somehow I thought the Left Fork was closed at all so I was left with no option but the New Joe's. I drove there and started by 3-hour fruitless boulder hunting. First was the parking spot. The guidebook and drtopo's guide have two different spots for parking. I didn't find the spot described by the guidebook at all. After a few mistakes I found the oil drill described by drtopo's guide. Then I found no obvious trail that could ever lead me to a correct boulder. There was no trail, just land. It was very easy to get lost. I even became scared. Sometimes I saw some potentially large rock that I might want to go check out, I put down the crashpad at somewhere obvious and walked over. It was quite inconvenient to walk with the crashpad because it ran into the pines. In a short while I started to worry that I indeed had a fairly significant probability of getting lost. The whole process felt like playing a game that was too hard even to find your quest object. Ant it left a scary impression.
 
@@ -233,11 +237,11 @@ Mike and Nicole discussed a bit with me regarding what problems I would do. As a
 **Left Fork First Impression**
 I decided to drive back to the Right Fork and talk to the road guard, see if he would let me in. It was then that I realized that the Left Fork was actually not closed. Having the thought that The Angler _was_ a V2, and that there is Kelly's Arete nearby that has quite a few easy boulders, I drove to the roadside boulders.
 
-To my surprise it was not hot at all at the Riverside Boulders. 
-I arrived at around 3pm in the afternoon, and The Angler was already in the shade. 
-Its "angler" was, understandably, heavily chalked up. 
-I threw in a few attempts, as a first day the beginning was not particularly hard for me. 
-I had a fair chance to stick the move. 
+To my surprise it was not hot at all at the Riverside Boulders.
+I arrived at around 3pm in the afternoon, and The Angler was already in the shade.
+Its "angler" was, understandably, heavily chalked up.
+I threw in a few attempts, as a first day the beginning was not particularly hard for me.
+I had a fair chance to stick the move.
 Bearing in mind that this is a pretty tall boulder, and that it's my first outdoor bouldering session, I decided to look for the downclimb first.
 
 The downclimb of K-Town was at the other end of the boulder.
@@ -253,18 +257,17 @@ So I dragged my crashpads to Kelly's Arete.
 My thoughts about the climbs on Kelly's Arete were already covered by the previous section.
 Here I should write about this very personal thing: I realized I could not top out! Whether or not the guidebook says "easy mantle", "techny mantle", just by looking down near the top of the boulder makes me decide to climb down.. I got stuck. I tried nearly all those boulders on the longer side of Kelly's. Most of them I got fairly good progress. Yet none of them I could top out.
 
-## Day 2 
+## Day 2
 
 _Aug 12 2018_
 
 # Some More Notes
 
-- **The bouldering guidebook is rare.** It's out of print and a used copy is selling at $280 on amazon. The REI near the Front SLC is _said to_ help print a photocopy of a Utah bouldering guidebook (they call it "the black bible) for $20. So I was really lucky of me to have obtained one from my friend! After checking with my airbnb is the similar result. They also told me that **the newest guidebook will come out later this year or next.** People here get some printed version from a (should use _the_ instead?) coffee shop.
+* **The bouldering guidebook is rare.** It's out of print and a used copy is selling at $280 on amazon. The REI near the Front SLC is _said to_ help print a photocopy of a Utah bouldering guidebook (they call it "the black bible) for $20. So I was really lucky of me to have obtained one from my friend! After checking with my airbnb is the similar result. They also told me that **the newest guidebook will come out later this year or next.** People here get some printed version from a (should use _the_ instead?) coffee shop.
 
-- **Bouldering at night is a thing** because it is too hot during the day. It is suggested to go out early mornings or climb at night using a spotlight. So my jetlag is gonna help isn't it?
+* **Bouldering at night is a thing** because it is too hot during the day. It is suggested to go out early mornings or climb at night using a spotlight. So my jetlag is gonna help isn't it?
 
-- **It might not be hot as it is thought**. The Angler and Kelly's Arete are both in the shades in the late afternoon. And the river is so incredibly chill that some people dip their water bottles in the water that works quite well as a fridge.
-
+* **It might not be hot as it is thought**. The Angler and Kelly's Arete are both in the shades in the late afternoon. And the river is so incredibly chill that some people dip their water bottles in the water that works quite well as a fridge.
 
 # Crashpad Rental
 
@@ -293,8 +296,8 @@ Also according to her:
 
 I love coffee. Coffee is my water. I dig the cities out for coffee places. And guess what, there's an interesting cafe at Orangeville!
 
-* [Cup of Joe’s](https://goo.gl/maps/qMiyWe8qwW92) 
-Apparently they also have quite a few fans on their [Facebook Page](https://www.facebook.com/cupofjoes). But most amazing of all, they actually take coffee beans, like this bag called _Warm Up Boulder_.
+* [Cup of Joe’s](https://goo.gl/maps/qMiyWe8qwW92)
+  Apparently they also have quite a few fans on their [Facebook Page](https://www.facebook.com/cupofjoes). But most amazing of all, they actually take coffee beans, like this bag called _Warm Up Boulder_.
 
 ![Warm Up Boulder Coffee Beans](https://lh5.googleusercontent.com/p/AF1QipNz1rWah4aPbTE1k2WVdPcTBtcPFQyxrhhc2rbO=w203-h162-k-no)
 
@@ -307,7 +310,7 @@ Apparently they also have quite a few fans on their [Facebook Page](https://www.
 * [Palenque Gourmet Mexican Grill](https://goo.gl/maps/fD8YwAymXjC2)
   > A 15-minute-drive brings you here. Opens till 10pm except for Sundays, till 3pm. My burrito was so big that it can sit on itself.
   > ![palenque burrito](assets/food--palenque.jpg)
-* [Food Ranch](https://goo.gl/maps/c1LyuVMgcwN2) 
+* [Food Ranch](https://goo.gl/maps/c1LyuVMgcwN2)
   > I hear they have good pizzas, good bakery, etc. I didn't try those but my breakfast there was also quite good and the portion is large. It may not look as good but the ham is delicious.
   > ![food ranch breakfast](assets/food--food-ranch-breakfast.jpg)
 * [Stewart's Market](https://goo.gl/maps/oz5k1gqkmfM2) Personally I like this the most for their ready meals are more healthy. I also love the huge dairy product sections. They don't open on Sundays.
