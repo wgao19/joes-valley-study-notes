@@ -62,6 +62,15 @@ One thing I both suffered a lot and gained quite some experience throughout this
 
   > A lot of people who post on Instagram might include a location for the post. You can click on it to see its specific location, it is often quite accurate. You might even find more pictures and videos of more boulders at the same location.
 
+### First-aid kit
+
+- neosporin
+- scissors
+- bandage
+- tape (normal + waterproof)
+
+Personally I like the neosporin + bandage + tape option better than the commercial instant bandage products because it is more customizable, else would need an assorted sizes and they may still not be able to cover unforeseen usecases.
+
 ## Bouldering at Joe's By Region
 
 ~a.k.a. guidebook reading~
